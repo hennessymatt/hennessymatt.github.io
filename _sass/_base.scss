@@ -331,15 +331,15 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
-  a {
-    text-decoration: none;
-
-    &:hover {
-      .card-title {
-        color: var(--global-theme-color);
-      }
-    }
-  }
+  // a {
+  //   text-decoration: none;
+  //
+  //   &:hover {
+  //     .card-title {
+  //       color: var(--global-theme-color);
+  //     }
+  //   }
+  // }
 
   .card {
     img {
@@ -366,12 +366,12 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    text-align: right;
+    text-align: left;
   }
 }
 

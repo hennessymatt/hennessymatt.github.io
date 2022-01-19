@@ -13,10 +13,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>
-    {%- if site.title == "blank" -%}
+    {%- if site.shorttitle == "blank" -%}
         {%- capture title -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- endcapture -%}
     {%- else -%}
-        {%- capture title -%}{{ site.title }}{%- endcapture -%}
+        {%- capture title -%}{{ site.shorttitle }}{%- endcapture -%}
     {%- endif -%}
     {%- if page.title != "blank" and page.url != "/" -%}
         {{ title }} | {{ page.title }}
@@ -145,7 +145,7 @@
         "description": "{%- if page.description -%}{{ page.description }}{%- else if site.description -%}{{ site.description }}{%- endif -%}",
         "headline": "{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}",
         {% if sameaslinks != blank -%}
-        "sameAs": {{ sameaslinks }}, 
+        "sameAs": {{ sameaslinks }},
         {%- endif %}
         "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}",
         "@context": "https://schema.org"

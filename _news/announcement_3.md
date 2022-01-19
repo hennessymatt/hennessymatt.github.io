@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-01-18
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our [paper on modelling polyelectrolyte gels](https://doi.org/10.1016/j.jmps.2021.104771) that undergo phase separation has
+been accepted for publication in JMPS.  We show that a novel mode of phase
+separation can lead to localised pattern formation and a breakdown of
+electroneutrality in the bulk of the gel.
