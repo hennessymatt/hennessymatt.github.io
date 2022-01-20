@@ -6,7 +6,7 @@ subtitle: <a href='http://www.bristol.ac.uk/engineering/departments/engineering-
 
 profile:
   align: right
-  image: phase_separation.jpg
+  image: phase_separation_r.jpg
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
