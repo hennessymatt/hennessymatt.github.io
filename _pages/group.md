@@ -4,6 +4,7 @@ title: group
 description: Meet the members of the CFM Lab.
 permalink: /group/
 nav: true
+order: 2
 ---
 
 {% assign sorted_members = site.group_members | sort: 'date' | reverse %}

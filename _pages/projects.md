@@ -5,6 +5,7 @@ permalink: /projects/
 nav: true
 display_categories: [work, fun]
 horizontal: false
+order: 3
 ---
 
 Our research  combines mathematical modelling, mathematical "analysis", and scientific computing to learn about the behaviours of fluids, solids, and multi-component systems with modern applications.  We work closely with experimental researchers.  Our mathematical models are typically based on continuum mechanics.  "Analysing" these models means seeking exact or approximate solutions or learning about the qualitative behaviour of solutions (e.g. using asymptotic methods or tools from dynamical systems).  Our portfolio of research projects is continually evolving, but below you can find a sample of the problems we have been thinking about.

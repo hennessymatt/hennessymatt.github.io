@@ -3,11 +3,27 @@ layout: page
 permalink: /join_us/
 title: join us
 nav: true
+order: 5
 ---
 
 If you are interested in joining the CFM Lab, then please read the information below about the various opportunities we have and get in touch with <a href = "mailto:matthew.hennessy@bristol.ac.uk">Matt</a>.
 
 <div class="projects">
+
+<h2 class="category">prospective PhD students</h2>
+<p>
+<b>There is competitive funding available for PhD projects</b>.  We are currently
+looking for enthusiastic and motivated candidates to work on PhD projects
+relating to:
+<ul>
+<li>The solid mechanics of drying colloidal fluids</li>
+<li>Mathematical modelling of drug-delivery systems</li>
+<li>Instabilities and pattern formation in hydrogels and electro-active gels</li>
+</ul>
+
+The Department of Engineering Maths accepts applications for PhD positions all year.
+ <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">Information about the admissions process can be found here</a>.
+</p>
 
 <h2 class="category">engineering maths students at Bristol</h2>
 Each year there are opportunities to join the CFM Lab through the project-based units offered to third-year BEng students (Technical Project EMAT30009), fourth-year MEng students (Technical Project EMATM5000), and MSc students (Research Project EMATM0038).  Project proposals can be developed in advance with students and are usually submitted in the summer before TB1.
@@ -18,12 +34,6 @@ Each year there are opportunities to join the CFM Lab through the project-based 
 involve working on a current research problem under the supervision of a member
 of our lab.  Bristol's Faculty of Engineering provides funding for summer projects.
 These projects are usually announced in January.
-</p>
-
-<h2 class="category">prospective PhD students</h2>
-<p>The Department of Engineering Maths accepts applications for PhD positions all year.  <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">More information about the PhD admissions process can be found here</a>.</p>
-
-<p>There is competitive funding available for PhD projects.  The deadline for funded positions is early January.  Please get in touch as soon as possible if you would like to discuss opportunities to join the CFM lab as a PhD student.   
 </p>
 
 <h2 class="category">post-doctoral researchers</h2>
