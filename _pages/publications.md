@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications from the CFM lab in reverse chronological order.
+description: Publications from the CFM lab.
 years: [preprints, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 nav: true
 order: 4
