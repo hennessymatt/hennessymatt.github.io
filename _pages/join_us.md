@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /join_us/
-title: join us
+title: Join us
 nav: true
 order: 5
 ---
@@ -10,7 +10,7 @@ If you are interested in joining the CFM Lab, then please read the information b
 
 <div class="projects">
 
-<h2 class="category">prospective PhD students</h2>
+<h2 class="category">Prospective PhD students</h2>
 <p>
 <b>There is competitive funding available for PhD projects</b>.  We are currently
 looking for enthusiastic and motivated candidates to work on PhD projects
@@ -25,10 +25,10 @@ The Department of Engineering Maths accepts applications for PhD positions all y
  <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">Information about the admissions process can be found here</a>.
 </p>
 
-<h2 class="category">engineering maths students at Bristol</h2>
+<h2 class="category">Engineering maths students at Bristol</h2>
 Each year there are opportunities to join the CFM Lab through the project-based units offered to third-year BEng students (Technical Project EMAT30009), fourth-year MEng students (Technical Project EMATM5000), and MSc students (Research Project EMATM0038).  Project proposals can be developed in advance with students and are usually submitted in the summer before TB1.
 
-<h2 class="category">summer projects for undergraduate students</h2>
+<h2 class="category">Summer projects for undergraduate students</h2>
 
 <p> The CFM Lab strongly advocates undergraduate research.  Summer projects
 involve working on a current research problem under the supervision of a member
@@ -36,7 +36,7 @@ of our lab.  Bristol's Faculty of Engineering provides funding for summer projec
 These projects are usually announced in January.
 </p>
 
-<h2 class="category">post-doctoral researchers</h2>
+<h2 class="category">Post-doctoral researchers</h2>
 The CFM Lab does not currently have funding for post-doctoral researchers.  Please check again as vacancies will be posted here.  Below are some links for external funding for post-doctoral researchers:
 
 <ul>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: group
+title: Group
 description: Meet the members of the CFM Lab.
 permalink: /group/
 nav: true
@@ -12,7 +12,7 @@ order: 2
 <!-- PI  -->
 
 <div class="projects">
-  <h2 class="category">principal investigator</h2>
+  <h2 class="category">Principal investigator</h2>
     <div class="row justify-content-sm-center">
       <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/people/matt.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -31,7 +31,7 @@ order: 2
 <!-- current members -->
 
 <div class="projects">
-  <h2 class="category">current members</h2>
+  <h2 class="category">Current members</h2>
     {% for member in sorted_members %}
     {%- if member.category == "current" -%}
       {% include member_format.html %}
@@ -42,7 +42,7 @@ order: 2
 
 <!-- affiliate members -->
 <div class="projects">
-  <h2 class="category">associate members</h2>
+  <h2 class="category">Associate members</h2>
     {% for member in sorted_members %}
     {%- if member.category == "associate" -%}
       {% include member_format.html %}
@@ -54,7 +54,7 @@ order: 2
 <!-- past members -->
 
 <div class="projects">
-  <h2 class="category">past members</h2>
+  <h2 class="category">Past members</h2>
     {% for member in sorted_members %}
     {%- if member.category == "past" -%}
       <p>

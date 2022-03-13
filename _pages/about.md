@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/'>Department of Engineering Mathematics</a>, <a href='https://www.bristol.ac.uk/'>University of Bristol</a>, United Kingdom
 
