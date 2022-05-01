@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group
+title: People
 description: Meet the members of the CFM Lab.
 permalink: /group/
 nav: true

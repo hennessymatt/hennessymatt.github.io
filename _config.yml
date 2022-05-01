@@ -14,7 +14,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_new">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_new">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: applied mathematics, soft matter, functional materials  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon
@@ -112,6 +112,9 @@ collections:
   group_members:
     output: true
     permalink: /group/:path/
+  phd-projects:
+    output: true
+    permalink: /phd-projects/:path/
 
 
 news_limit: 5

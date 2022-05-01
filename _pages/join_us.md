@@ -6,27 +6,36 @@ nav: true
 order: 5
 ---
 
-If you are interested in joining the CFM Lab, then please read the information below about the various opportunities we have and get in touch with <a href = "mailto:matthew.hennessy@bristol.ac.uk">Matt</a>.
+If you are interested in joining the CFM Lab, then please read the information below about the various opportunities we have and get in touch with Matt at <a href = "mailto:matthew.hennessy@bristol.ac.uk">matthew.hennessy@bristol.ac.uk</a>.
 
 <div class="projects">
 
-<h2 class="category">Prospective PhD students</h2>
+<h2 class="category">PhD opportunities</h2>
 <p>
-<b>There is competitive funding available for PhD projects</b>.  We are currently
-looking for enthusiastic and motivated candidates to work on PhD projects
-relating to:
+We are looking for enthusiastic students to work on PhD projects.
+Applicants for PhD projects should have a keen interest in fluid and solid mechanics, numerical
+simulations, and using mathematical techniques to solve real-world problems.
+There may be opportunities to carry out experimental work as well.
+</p>
+<p>
+We currently have PhD projects relating to:
 <ul>
 <li>The solid mechanics of drying colloidal fluids</li>
-<li>Mathematical modelling of drug-delivery systems</li>
+<li>Mathematical modelling of hydrogel-based drug-delivery systems</li>
 <li>Instabilities and pattern formation in hydrogels and electro-active gels</li>
 </ul>
 
-The Department of Engineering Maths accepts applications for PhD positions all year.
- <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">Information about the admissions process can be found here</a>.
-</p>
+<b>Funding is available for these PhD projects.</b>
+ <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">Information about
+  admission requirements can be found on the University of Bristol's website</a>.
+  If you are interested in studying for a PhD with us, then please email
+  Matt to discuss the application process and funding opportunities.
+</p>  
 
-<h2 class="category">Engineering maths students at Bristol</h2>
-Each year there are opportunities to join the CFM Lab through the project-based units offered to third-year BEng students (Technical Project EMAT30009), fourth-year MEng students (Technical Project EMATM5000), and MSc students (Research Project EMATM0038).  Project proposals can be developed in advance with students and are usually submitted in the summer before TB1.
+<h2 class="category">Engineering Maths students at Bristol</h2>
+Each year there are opportunities to join the CFM Lab through the project-based units offered to third-year BEng students (EMAT30009), fourth-year MEng students (EMATM5000), and MSc students (EMATM0038).  Project proposals can be developed
+with students and are usually submitted in the summer before TB1.  Please email Matt if you would like
+to develop a project together.
 
 <h2 class="category">Summer projects for undergraduate students</h2>
 
