@@ -112,7 +112,7 @@ collections:
   group_members:
     output: true
     permalink: /group/:path/
-  phd-projects:
+  phd_projects:
     output: true
     permalink: /phd-projects/:path/
 

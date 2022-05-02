@@ -13,17 +13,25 @@ If you are interested in joining the CFM Lab, then please read the information b
 <h2 class="category">PhD opportunities</h2>
 <p>
 We are looking for enthusiastic students to work on PhD projects.
-Applicants for PhD projects should have a keen interest in fluid and solid mechanics, numerical
+Applicants should have a keen interest in fluid and solid mechanics, numerical
 simulations, and using mathematical techniques to solve real-world problems.
 There may be opportunities to carry out experimental work as well.
 </p>
 <p>
-We currently have PhD projects relating to:
+We currently have PhD projects relating to (click link for a description):
+<div class="projects">
+{%- assign sorted_projects = site.phd_projects | sort: "importance" %}
 <ul>
+{% for project in sorted_projects %}
+<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+{% endfor %}
+</ul>
+</div>
+<!-- <ul>
 <li>The solid mechanics of drying colloidal fluids</li>
 <li>Mathematical modelling of hydrogel-based drug-delivery systems</li>
 <li>Instabilities and pattern formation in hydrogels and electro-active gels</li>
-</ul>
+</ul> -->
 
 <b>Funding is available for these PhD projects.</b>
  <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">Information about

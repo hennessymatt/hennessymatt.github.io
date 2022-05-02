@@ -22,7 +22,7 @@ order: 2
           <b>Matt Hennessy</b> leads the CFM Lab.  His research interests lie at the interface of applied mathematics, materials science, and soft matter.  He is currently a Lecturer in <a href="http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/">Engineering Mathematics</a> at the <a href="https://www.bristol.ac.uk/">University of Bristol</a>.
         </p>
         <p>
-          Matt obtained his DPhil in Applied Mathematics from the <a href="https://www.maths.ox.ac.uk">University of Oxford</a>, where he studied evaporation-driven instabilities in polymer films in the context of organic solar cell fabrication.  He then held a post-doc position in the <a href="https://www.imperial.ac.uk/chemical-engineering">Department of Chemical Engineering at Imperial College London</a>, followed by a Marie Curie-Skłodowska Fellowship at the <a href="http://www.crm.cat">Centre de Recerca Matematica</a> in Barcelona, and then returned to Oxford to take up a Hooke Research Fellowship.
+          Matt obtained his DPhil in Applied Mathematics from the <a href="https://www.maths.ox.ac.uk">University of Oxford</a>.  He then held a post-doc position in the <a href="https://www.imperial.ac.uk/chemical-engineering">Department of Chemical Engineering at Imperial College London</a>, followed by a Marie Curie-Skłodowska Fellowship at the <a href="http://www.crm.cat">Centre de Recerca Matematica</a> in Barcelona, and then returned to Oxford to take up a Hooke Research Fellowship.
         </p>
       </div>
     </div>
