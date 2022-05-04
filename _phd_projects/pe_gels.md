@@ -18,4 +18,4 @@ subjected to an electric field.  This project will use modelling,
 finite-element simulations, and experiments to explore how polyelectrolyte
 gels respond to electric fields.  The ultimate goal is to be able to design a
 polyelectrolyte gel that will morph into a given shape
-when an electric field is applied.  
+when an electric field is applied.

@@ -5,5 +5,5 @@ inline: true
 ---
 
 Our paper on modelling the drying of poroelastic drops has
-been accepted in PRE.  Here, we propose that the alignment of dessication
+been accepted in PRE.  Here, we propose that the alignment of desiccation
 fractures is controlled by the profile of the drop at the gel point.
