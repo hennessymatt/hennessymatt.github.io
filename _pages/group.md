@@ -31,7 +31,7 @@ order: 2
 <!-- current members -->
 
 <div class="projects">
-  <h2 class="category">Current members</h2>
+  <h2 class="category">Members</h2>
     {% for member in sorted_members %}
     {%- if member.category == "current" -%}
       {% include member_format.html %}
@@ -42,7 +42,7 @@ order: 2
 
 <!-- affiliate members -->
 <div class="projects">
-  <h2 class="category">Associate members</h2>
+  <h2 class="category">Collaborators</h2>
     {% for member in sorted_members %}
     {%- if member.category == "associate" -%}
       {% include member_format.html %}

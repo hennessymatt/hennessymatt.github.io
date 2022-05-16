@@ -6,7 +6,11 @@ nav: true
 order: 5
 ---
 
-If you are interested in joining the CFM Lab, then please read the information below about the various opportunities we have and get in touch with Matt at <a href = "mailto:matthew.hennessy@bristol.ac.uk">matthew.hennessy@bristol.ac.uk</a>.
+There are several opportunities to join the CFM Lab.  If any of the
+opportunities below are of interest to you, then please email Matt at
+ <a href = "mailto:matthew.hennessy@bristol.ac.uk">matthew.hennessy@bristol.ac.uk</a>
+ to discuss further.
+
 
 <div class="projects">
 
