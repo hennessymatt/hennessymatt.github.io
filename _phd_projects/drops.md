@@ -1,9 +1,18 @@
 ---
 layout: phd_description
-title: The solid mechanics of drying colloidal fluids
-short_title: Drying colloidal fluids
+title: Fracture patterns in evaporating drops
+short_title: Fracture patterns in evaporating drops
 keywords: [fluid mechanics, poroelasticity, fracture, delamination, buckling, FEM]
 importance: 1
 ---
 
-Many industrial and engineering processes involve the drying of fluids that contain solid particles.  At the beginning of drying, the liquid-solid mixture behaves as a viscous fluid.  However, as the mixture dries out, it is transformed into a deformable porous solid.  Removal of fluid from the pores of the solid can generate stresses which can trigger a wide range of mechanical instabilities such as fracture, buckling, and delamination.  Traditionally, such instabilities were viewed as detrimental; however, there is growing interest in understanding how these can be used to enhance the functionality of the material.  The aim of this project is to combine mathematical modelling, asymptotic reduction, and numerical simulations to understand the drying process and the various modes of mechanical instability that can occur.  There will be an opportunity to conduct experiments and/or collaborate with world-leading experimentalists.
+Many industrial processes involve depositing a drop of particle-containing fluid onto a surface and letting it dry. As the fluid dries, it solidifies and mechanical stresses start to develop. When the stress in the drop exceeds a critical value, it begins to fracture. These fractures divide the drop into an array of "petals" that bend upwards. The end result is that the drop appears to "bloom" into a solid structure that resembles a lotus flower. These fracture patterns are relevant to the development of new technologies for medical diagnostics. For example, the fracture patterns in dried blood drops depend on the blood composition. Therefore, the fracture pattern can be used to detect pathogens in blood.
+
+The aim of this project is to combine theory and experiments to build a comprehensive understanding of fracture patterns in drying drops. Specific objectives include:
+
+* Developing mathematical models of drying drops. Developing finite-element code to solve them numerically
+* Carrying out experiments using drops of fluid that contain nanoparticles
+* Studying the impact of drop shape and the presence of multiple drops on the fracture pattern
+* Using machine learning to predict the fluid properties from the fracture pattern
+
+This project will be co-supervised by [Stuart Thomson](https://www.bristol.ac.uk/people/person/Stuart-Thomson-7dc4f745-cd23-497e-9d81-a1ea7ec1f9ab/).

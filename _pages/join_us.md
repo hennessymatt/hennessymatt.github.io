@@ -37,11 +37,9 @@ We currently have PhD projects relating to (click link for a description):
 <li>Instabilities and pattern formation in hydrogels and electro-active gels</li>
 </ul> -->
 
-<b>Funding is available for these PhD projects.</b>
+Competitive funding is available for these PhD projects.
  <a href="http://www.bristol.ac.uk/study/postgraduate/2021/eng/phd-eng-maths">Information about
   admission requirements can be found on the University of Bristol's website</a>.
-  If you are interested in studying for a PhD with us, then please email
-  Matt to discuss the application process and funding opportunities.
 </p>  
 
 <h2 class="category">Engineering Maths students at Bristol</h2>
