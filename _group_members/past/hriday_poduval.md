@@ -1,0 +1,7 @@
+---
+name: Hriday Poduval
+description:  Modelling hydrogel-based drug-delivery systems (MSc dissertation)
+img: assets/img/people/missing.jpg
+date: 2001-02-01
+category: past
+---
