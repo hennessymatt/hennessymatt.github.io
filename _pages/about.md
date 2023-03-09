@@ -13,8 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-In the Complex and Functional Materials (CFM) Lab, we use applied mathematics to describe the behaviours of fluids and solids.  The aim of our research is to guide the development of new materials and optimise their use in
-new technologies. 
+We use applied mathematics to describe the behaviours of fluids and solids.  The aim of our research is to guide the development of new functional materials that can be used in modern applications.
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
