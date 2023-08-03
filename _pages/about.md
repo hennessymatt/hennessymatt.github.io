@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/'>Department of Engineering Mathematics</a>, <a href='https://www.bristol.ac.uk/'>University of Bristol</a>, United Kingdom
+subtitle: <a href='https://www.bristol.ac.uk/engineering/schools/semt/'>School of Engineering Mathematics and Technology</a>, <a href='https://www.bristol.ac.uk/'>University of Bristol</a>, United Kingdom
 
 profile:
   align: right

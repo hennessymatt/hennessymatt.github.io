@@ -2,7 +2,8 @@
 ---
 
 @preprint{finney2023,
-title = {On the deformation of an elastic particle under tube flow},
+title = {The impact of confinement on the deformation of an elastic particle under
+axisymmetric tube flow},
 author={Finney, Simon and Hennessy, Matthew G, and M\"unch, Andreas and
 Waters, Sarah},
 year={preprints},
@@ -10,36 +11,21 @@ abbr = {Submitted},
 abstract={We study an elastic particle translating axially along the centre-line of a rigid cylindrical tube filled with a Newtonian viscous fluid. The flow is pressure-driven and an axial body force is applied to the particle. We consider the regime in which the ratio of typical viscous fluid stress to elastic stiffness is small, leading to small elastic strains in the particle. In this case, there is a one-way decoupling of the fluid-structure interaction problem. The leading-order fluid problem is shown to be pressure-driven Stokes flow past a rigid sphere, and is solved using the semi-analytical method of reflections. The traction exerted by the fluid on the particle can be computed and used to formulate a pure solid-mechanics problem for the deformation of the particle, which can be solved analytically. This framework is used to investigate the role of the background flow, an axial body force, and the tube wall on the particle’s leading-order translational velocity, induced solid stress, and resulting deformation. By considering the first-order fluid problem we show the next-order correction to the translational velocity of the particle is shown to be zero. Depending on the magnitude of the dimensionless body force, the particle can either have a bullet-like shape, an anti-bullet shape, or retain its original spherical shape. A finite element implementation is also presented to validate the method of reflections for solving the leading-order fluid and solid problems.}
 }
 
-@preprint{hennessy2021,
-title = {The electric double layer at the interface between a polyelectrolyte gel and salt bath},
-author = {Hennessy, Matthew G and Celora, Giulia L and M\"unch, Andreas and Wagner, Barbara and Waters, Sarah L},
-journal={arXiv:2201.11554},
-abbr = {arXiv},
-year = {preprints},
-html={https://arxiv.org/abs/2201.11554},
-abstract={The electric double layer (EDL) that forms at the interface between a
-polyelectrolyte gel and a salt bath is studied using asymptotic and numerical
-methods. Specifically, matched asymptotic expansions, based on the smallness of
-the Debye length relative to the typical gel dimensions, are used to construct
-solutions of the governing equations and derive electroneutral models with
-consistent jump conditions across the gel-bath interface. A general approach
-for solving the equations of incompressible nonlinear elasticity in a curved
-boundary layer is developed and used to resolve the gel mechanics in the EDL. A
-critical feature of the model is that it accounts for phase separation within
-the gel, which gives rise to diffuse interfaces with a characteristic thickness
-described by the Kuhn length. We show that the solutions of the electroneutral
-model can only be asymptotically matched to the solutions in the EDL, in
-general, when the Kuhn length greatly exceeds the Debye length. Conversely, if
-the Debye length is similar to or larger than the Kuhn length, then the entire
-gel can self-organise into periodic, electrically charged domains via phase
-separation. The breakdown of electroneutrality demonstrates that the commonly
-invoked electroneutral assumption must be used with caution, as it generally
-only applies when the Debye length is much smaller than the Kuhn length.}
-}
 
 
 
 %===============================================================================
+
+@article{hennessy2023debye,
+title = {Breakdown of electroneutrality in polyelectrolyte gels},
+author = {Hennessy, Matthew G and Celora, Giulia L and M\"unch, Andreas and Wagner, Barbara and Waters, Sarah L},
+journal={European Journal of Applied Mathematics},
+abbr = {EJAM},
+year = {2023},
+abstract={Mathematical models of polyelectrolyte gels are often simplified by assuming the gel is electrically neutral.  The rationale behind this assumption is that the thickness of the electric double layer (EDL) at the free surface of the gel is small compared to the size of the gel. Hence, the thin-EDL limit is taken, in which the thickness of the EDL is set to zero. Despite the widespread use of the thin-EDL limit, the solutions in the EDL are rarely computed and shown to match to the solutions for the electrically neutral bulk. The aims of this paper are to study the structure of the EDL and establish the validity of the thin-EDL limit. The model for the gel accounts for phase separation, which gives rise to diffuse interfaces with a thickness described by the Kuhn length. We show that the solutions in the EDL can only be asymptotically matched to the solutions for an electrically neutral bulk, in general, when the Debye length is much smaller than the Kuhn length. If the Debye length is similar to or larger than the Kuhn length, then phase separation can be initiated in the EDL.  This phase separation spreads into the bulk of the gel and gives rise to electrically charged layers with different degrees of swelling.  Thus, the thin-EDL limit and the assumption of electroneutrality only generally apply when the Debye length is much smaller than the Kuhn length.},
+pdf = {hennessy_debye_ejam.pdf}
+}
+
 
 @article{fibres,
   title={Fiber reinforced hydrated networks recapitulate the poroelastic mechanics of articular cartilage},
