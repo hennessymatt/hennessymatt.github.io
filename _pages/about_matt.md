@@ -1,0 +1,5 @@
+**Matt Hennessy** leads the CFM Lab. His research interests lie at the interface of applied maths, materials science, and soft matter. He has been a Lecturer in [Engineering Mathematics](https://www.bristol.ac.uk/engineering/schools/eng-maths-tech/) at the [University of Bristol](https://www.bristol.ac.uk/) since 2021.
+Matt is passionate about using maths to solve real-world problems arising in industry, and he is 
+a Knowledge Exchange Champion for the [UK Knowledge Exchange Hub for Mathematical Sciences](https://www.kehubmaths.co.uk/)
+
+Matt obtained a BSc in Physics and Applied Mathematics from [Ontario Tech University](https://ontariotechu.ca).  He then completed an MSc in Mathematical Modelling and Scientific Computing and a DPhil in Applied Mathematics at the [University of Oxford](https://www.maths.ox.ac.uk).  He then held a post-doc position in the [Department of Chemical Engineering at Imperial College London](https://www.imperial.ac.uk/chemical-engineering), followed by a Marie Curie-Skłodowska Fellowship at the [Centre de Recerca Matematica](http://www.crm.cat) in Barcelona, and then returned to Oxford to take up a Hooke Research Fellowship.
