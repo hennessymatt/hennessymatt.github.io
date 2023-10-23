@@ -41,16 +41,14 @@ Competitive funding is available for these PhD projects.
  <a href="https://www.bristol.ac.uk/study/postgraduate/research/engineering-mathematics/">Information about
   admission requirements can be found on the University of Bristol's website</a>.
 </p>  
-
-
-
-<h2 class="category">Post-doctoral researchers</h2>
-The CFM Lab does not currently have funding for post-doctoral researchers.  Please check again as vacancies will be posted here.  Below are some links for external funding for post-doctoral researchers:
-
-<ul>
-<li><a href="https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships">Marie Skłodowska-Curie Individual Fellowships</a> - for researchers currently based outside of the UK.</li>
-<li><a href="https://royalcommission1851.org/fellowships/research-fellowships">Royal Commission 1851 Fellowships</a> - for reseachers with less than 3 years of post-doc experience.</li>
-<li><a href="https://royalsociety.org/grants-schemes-awards/grants/university-research/">Royal Society University Research Fellowships</a> - for researchers based anywhere.</li>
-<li><a href="https://www.ukri.org/councils/epsrc/career-and-skills-development/fellowships/">EPSRC fellowships</a> - for researchers based anywhere.</li>
-</ul>
 </div>
+
+
+<div class="projects">
+<h2 class="category">Post-doc opportunities</h2>
+</div>
+The CFM Lab does not currently have funding for post-doctoral researchers.  Please check again as vacancies will be posted here.  Below are some links for external funding for post-doctoral researchers:
+* [Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships) - for researchers currently based outside of the UK
+* [Royal Commission 1851 Fellowships](https://royalcommission1851.org/fellowships/research-fellowships) - for reseachers with less than 3 years of post-doc experience
+* [Royal Society University Research Fellowships](https://royalsociety.org/grants-schemes-awards/grants/university-research/) - for researchers based anywhere
+* [EPSRC fellowships](https://www.ukri.org/councils/epsrc/career-and-skills-development/fellowships/) - for researchers based anywhere
