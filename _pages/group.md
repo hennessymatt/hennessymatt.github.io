@@ -45,7 +45,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: missing.jpg
+    image: jack.jpeg
     content: about_jack.md
     role: current
     image_circular: false # crops the image to make it circular
