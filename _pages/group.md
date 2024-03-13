@@ -56,4 +56,11 @@ profiles:
     role: current
     image_circular: false # crops the image to make it circular
 
+  - align: left
+    image: jasper.PNG
+    content: about_jasper.md
+    role: current
+    image_circular: false # crops the image to make it circular
+
+
 ---
