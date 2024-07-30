@@ -33,26 +33,8 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: keatan.jpg
-    content: about_keatan.md
-    role: current
-    image_circular: false # crops the image to make it circular
-
-  - align: left
-    image: amy.jpg
-    content: about_amy.md
-    role: current
-    image_circular: false # crops the image to make it circular
-
-  - align: left
-    image: jack.jpeg
-    content: about_jack.md
-    role: current
-    image_circular: false # crops the image to make it circular
-
-  - align: left
-    image: jacob.jpg
-    content: about_jacob.md
+    image: asmaa.png
+    content: about_asmaa.md
     role: current
     image_circular: false # crops the image to make it circular
 
