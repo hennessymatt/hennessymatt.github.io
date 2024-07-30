@@ -18,4 +18,4 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-We use applied mathematics, machine learning, and experiments to describe the behaviours of fluids and solids.  The aim of our research is to guide the development of new functional materials that can be used in modern applications.
+We use applied mathematics, experiments, and computational methods to describe the behaviours of fluids and solids.  The aim of our research is to guide the development of new functional materials that can be used in modern applications.
