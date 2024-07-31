@@ -8,7 +8,7 @@ horizontal: false
 order: 2
 ---
 
-We use mathematical methods to learn about the behaviours of fluids and solids.  We often work with experimental researchers.  Our portfolio of research projects is always evolving.  Below you can find a sample of topics we have been thinking about.
+We combine mathematical modelling with experiments to learn about the behaviours of fluids and solids.  Our portfolio of projects is always evolving, and we are happy to forge new collaborations.  The projects below give a current overview of our active research themes:
 
 <div class="projects">
 
@@ -19,29 +19,58 @@ We use mathematical methods to learn about the behaviours of fluids and solids. 
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <p>
-        Hydrogels are soft solids composed of an elastic skeleton that strongly
-        attracts water molecules.  As such, it is energetically favourable for
-        hydrogels to swell when placed in watery environments.  By controlling the
-        swelling process, it is possible to morph hydrogels into a range of
-        shapes.   The ability to alter the size and shape of hydrogels
-        on demand has led to their
-        use in a huge range of applications.
-        We are currently looking at:
+        Hydrogels are soft, porous softs that are extremely water absorbent.  Some hydrogels
+        are able to absorb more than 1000 times their dry mass of water!  
+        Moreover, many hydrogels are responsive to their environment.  This means that
+        stimuli such as temperature, electricity, and magnetism can be used to
+        alter how much water they absorb and hence control their shape.  The 
+        behaviour of hydrogels is governed by a delicate interplay of 
+        fluid and solid mechanics and thermodynamics, making them particularly
+        interesting to study.  Our research
+        on hydrogels involves:
         <ul>
-          <li>Morphing hydrogels through phase transitions and instabilities</li>
-          <li>Modelling of electro-active and magneto-active gels </li>
-          <li>Optimisation of hydrogel-based drug delivery systems</li>
-          <li>Fibre-reinforced hydrogels for artificial cartilage</li>
-          <li>Hydrogel-coated stem cells for liver therapy</li>
+          <li>Multi-scale and microstructural modelling of hydrogels</li>
+          <li>Modelling of thermo-, electro-, and magneto-responsive hydrogels </li>
+          <li>Phase separation and phase transitions in hydrogels</li>
+          <li>How hydrogels interact with external fluids</li>
+          <li>Biomedical applications of hydrogels (artificial cartilage, drug delivery)</li>
         </ul>
         </p>
     </div>
 </div>
 
+
+<h2 class="category">Complex fluids</h2>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/oil_water.jpg" title="Oil drops in water" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p>
+        Fluids that appear in industrial and biological contexts are usually not
+        simple liquids.  Instead, these fluids often involve a liquid and a solid        
+        component.  The solid component could be grains in the case
+        of coffee or cells in the case of blood.  The physical properties of the
+        fluid can be strongly impacted by the solid component, as anyone who has
+        added cornstarch to water knows.  Fluids with a solid component are usually
+        called complex fluids, owning to their complex mechanical behaviours.
+        Our research into complex fluids has focused on:
+        <ul>
+          <li>Fracture and delamination of evaporating colloidal suspensions</li>
+          <li>Gelation of complex fluids</li>
+          <li>Phase separation in biological fluids</li>
+          <li>Viscoelasticity and poroelasticity</li>
+          <li>Pattern formation in granular fluids</li>
+        </ul>
+        </p>
+    </div>
+</div>
+
+
 <h2 class="category">Light-driven 3D printing</h2>
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3d_printing.jpg" title="3D printing in action" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3d_printing.jpg" title="A 3D printer in action" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <p>
