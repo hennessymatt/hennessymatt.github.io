@@ -48,7 +48,7 @@ We combine mathematical modelling with experiments to learn about the behaviours
     <div class="col-sm-8 mt-3 mt-md-0">
         <p>
         Fluids that appear in industrial and biological contexts are usually not
-        simple liquids.  Instead, these fluids often contain a solid        
+        simple liquids.  Instead, these fluids often contain a liquid and a solid        
         component.  The solid component could be grains in the case
         of coffee or cells in the case of blood.  The physical properties of the
         fluid can be strongly impacted by the solid component, as anyone who has
