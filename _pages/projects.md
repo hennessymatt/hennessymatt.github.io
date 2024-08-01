@@ -58,7 +58,7 @@ We combine mathematical modelling with experiments to learn about the behaviours
         <ul>
           <li>Fracture and delamination of evaporating colloidal suspensions</li>
           <li>Gelation of complex fluids</li>
-          <li>Phase separation in biological fluids</li>
+          <li>Phase separation in polymer solutions and biological fluids</li>
           <li>Viscoelasticity and poroelasticity</li>
           <li>Pattern formation in granular fluids</li>
         </ul>
