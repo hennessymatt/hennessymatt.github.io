@@ -8,7 +8,7 @@ horizontal: false
 order: 2
 ---
 
-We combine mathematical modelling with experiments to learn about the behaviours of fluids and solids.  Our portfolio of projects is always evolving, and we are happy to forge new collaborations.  The projects below give a current overview of our active research themes:
+We combine mathematical modelling with experiments to learn about the behaviours of fluids and solids.  Our portfolio of projects is always evolving, and we are happy to forge new collaborations.  Our active research themes include:
 
 <div class="projects">
 
