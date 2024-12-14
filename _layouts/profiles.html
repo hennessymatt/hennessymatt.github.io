@@ -85,13 +85,19 @@ layout: page
           </div>
           {% endif -%}
           {% endfor %}
-
-
-
-
           {%- endif %}
 
-          <h2>Past group members</h2>
+          <h2>Past PhD students</h2>
+          <hr>
+          {% for member in sorted_members %}
+          {%- if member.category == "past_phd" -%}
+            <p>
+              <b>{{member.name}}</b> - {{member.description}}.
+            </p>
+          {%- endif -%}
+          {% endfor %}
+
+          <h2>Past undergraduate and MSc students</h2>
           <hr>
           {% for member in sorted_members %}
           {%- if member.category == "past" -%}
