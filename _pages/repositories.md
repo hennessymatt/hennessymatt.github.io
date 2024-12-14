@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
-description: Some helpful code and code from our research publications.
-nav: false
-nav_order: 6
+title: Code
+description: Some code from our research
+nav: true
+nav_order: 4
 ---
 
 <!-- ## GitHub users -->
