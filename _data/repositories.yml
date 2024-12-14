@@ -1,9 +1,0 @@
-github_users:
-  - hennessymatt
-  - finneysimon
-  
-github_repos:
-  - hennessymatt/UnconfinedCompression
-  - hennessymatt/PoroDropBeam
-  - finneysimon/stokes_poroelasticity
-  - finneysimon/stokes_elasticity_ALE_FSI
