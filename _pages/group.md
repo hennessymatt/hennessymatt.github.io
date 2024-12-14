@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: matthew_ghosh.jpeg
+    image: matthew_ghosh.jpg
     content: about_matthew.md
     role: current
     image_circular: false # crops the image to make it circular
