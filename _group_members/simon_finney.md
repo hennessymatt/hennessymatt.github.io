@@ -1,0 +1,6 @@
+---
+name: Simon Finney
+description: Modelling and simulation of fluid flow around poroelastic particles with application to liver therapy
+date: 2024-09-01
+category: past_phd
+---

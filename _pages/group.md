@@ -15,14 +15,14 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: yaojue.jpeg
-    content: about_yaojue.md
+    image: matthew_ghosh.jpeg
+    content: about_matthew.md
     role: current
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: simon.jpg
-    content: about_simon.md
+    image: yaojue.jpeg
+    content: about_yaojue.md
     role: current
     image_circular: false # crops the image to make it circular
 
@@ -33,16 +33,15 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: asmaa.png
-    content: about_asmaa.md
+    image: ben_hallett.jpg
+    content: about_ben.md
     role: current
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: jasper.PNG
-    content: about_jasper.md
+    image: miles_weedon.png
+    content: about_miles.md
     role: current
     image_circular: false # crops the image to make it circular
-
 
 ---
