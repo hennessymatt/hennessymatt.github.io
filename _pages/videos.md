@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /videos/
-title: Research videos
+title: Videos
 description: Videos on some of our research highlights.
 nav: true
 nav_order: 4
