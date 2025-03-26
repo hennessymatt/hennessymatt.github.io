@@ -1,0 +1,54 @@
+---
+title: Research
+---
+We combine mathematical modelling with experiments to learn about the behaviours of fluids and solids.  A summary of our active research themes is below.  Feel free to reach out if you would like to discuss collaboration opportunities.
+
+## Mechanics of hydrogels
+<div class="grid" style="--bs-columns: 3; --bs-gap: 1rem;">
+  <div class="g-col-1">![](/assets/img/gel_beads.jpg)</div>
+  <div class="g-col-2">Hydrogels are soft, porous solids that are extremely water absorbent. Some hydrogels are able to absorb more than 1000 times their dry mass of water! Moreover, many hydrogels are responsive to their environment. This means that stimuli such as temperature, electricity, and magnetism can be used to alter how much water they absorb and hence control their shape. The behaviour of hydrogels is governed by a delicate interplay of fluid and solid mechanics and thermodynamics, making them particularly interesting to study. Our research on hydrogels involves:
+  
+  * Multi-scale and microstructural modelling of hydrogels
+  * Modelling of thermo-, electro-, and magneto-responsive hydrogel
+  * Phase separation and phase transitions in hydrogels
+  * How hydrogels interact with external fluids
+  * Biomedical applications of hydrogels (artificial cartilage, drug delivery)
+  </div>
+</div>
+
+## Complex fluids
+<div class="grid" style="--bs-columns: 3; --bs-gap: 1rem;">
+  <div class="g-col-1">![](/assets/img/oil_water.jpg)</div>
+  <div class="g-col-2">Fluids that appear in industrial and biological contexts are usually not simple liquids. Instead, these fluids often have a liquid and solid component. The solid component could be grains in the case of coffee or cells in the case of blood. The physical properties of the fluid can be strongly impacted by the solid component, as anyone who has added cornstarch to water knows. Fluids with a solid component are usually called complex fluids, owning to their complex mechanical behaviours. Our research into complex fluids has focused on:
+
+  * Fracture and delamination of evaporating colloidal suspensions
+  * Gelation of complex fluids
+  * Phase separation in polymer solutions and biological fluids
+  * Viscoelasticity and poroelasticity
+  * Pattern formation in granular fluids
+  </div>
+</div>
+
+## Light-driven 3D printing
+<div class="grid" style="--bs-columns: 3; --bs-gap: 1rem;">
+  <div class="g-col-1">![](/assets/img/3d_printing.jpg)</div>
+  <div class="g-col-2">3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:
+
+  * Deriving minimal models that capture mass transport, optical attenuation, and thermal effects
+  * Understanding the fluid and solid mechanics of 3D printing
+  * Using machine learning to simulate and optimise 3D printing
+  * Modelling dual- and multi-wavelength 3D printing
+  </div>
+</div>
+
+## Lithium-ion batteries
+<div class="grid" style="--bs-columns: 3; --bs-gap: 1rem;">
+  <div class="g-col-1">![](/assets/img/lib.jpg)</div>
+  <div class="g-col-2">
+  Lithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:
+
+  * Using asymptotic methods to derive simplified models of batteries
+  * Detection of internal short circuits using machine learning
+  * Modelling nanowire-based electrodes
+  </div>
+</div>

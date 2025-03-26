@@ -1,0 +1,13 @@
+---
+title: News
+
+listing:     
+    - id: news
+      contents: "news/*.md"
+      template: news.ejs
+      sort: "date desc"
+      max-description-length: 500
+---
+
+:::{#news}
+:::

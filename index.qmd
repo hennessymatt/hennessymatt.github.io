@@ -1,0 +1,44 @@
+---
+title: "Complex and Functional Materials Lab"
+
+listing:     
+    - id: news
+      contents: "news/*.md"
+      template: news.ejs
+      sort: "date desc"
+      max-items: 5
+      max-description-length: 500
+---
+
+[School of Engineering Mathematics and Technology](https://www.bristol.ac.uk/science-engineering/schools/eng-maths-tech/), [University of Bristol](https://www.bristol.ac.uk/), United Kingdom
+
+![](assets/img/phase_separation_r.jpg)
+
+We use applied mathematics, experiments, and computational methods to describe the behaviours of fluids and solids. The aim of our research is to guide the development of new functional materials that can be used in modern applications.
+
+## [News](news.qmd)
+
+:::{#news}
+:::
+
+
+::: {.column-page-inset .text-center}
+```{=html}
+
+<a class="btn btn-outline-dark", href="https://github.com/hennessymatt" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://www.researchgate.net/profile/Matthew-Hennessy/" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researchgate" role='img' aria-label='ResearchGate'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=c2OI-skAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="mailto:matthew.hennessy@bristol.ac.uk" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+```
+:::

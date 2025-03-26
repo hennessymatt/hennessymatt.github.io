@@ -1,0 +1,52 @@
+---
+title: People
+listing:
+    - id: current
+      contents: current.yml   
+      template: current.ejs
+
+    - id: past_phd
+      contents: past_phd.yml
+      template: past.ejs
+
+    - id: past
+      contents: "past/*.md"
+      template: past.ejs
+      sort: "date desc"
+
+---
+Meet the members of the CFM Lab
+
+## Principal investigator
+<!-- :::{layout="[1, 3]"} -->
+
+<img src="/assets/img/group/matt2.jpg" style="float: left; width:30%; padding: 0px 5% 0px 0px">
+
+**Matt Hennessy** leads the CFM Lab. His research interests lie at the interface
+of applied maths, materials science and engineering, and soft matter. He is a Senior Lecturer in Engineering Mathematics at the [University of Bristol](https://www.bristol.ac.uk/).
+Matt is passionate about using maths to solve real-world problems arising in ind ustry, and he is 
+a Knowledge Exchange Champion for the [UK Knowledge Exchange Hub for Mathematical Sciences](https://www.kehubmaths.co.uk/).
+
+Matt obtained a BSc in Physics and Applied Mathematics from [Ontario Tech University](https://ontariotechu.ca).  He then completed an [MSc in 
+Mathematical Modelling and Scientific Computing](https://www.maths.ox.ac.uk/study-here/postgraduate-study/msc-courses/msc-mathematical-modelling-and-scientific-computing) and a DPhil in 
+Applied Mathematics at the 
+[University of Oxford](https://www.maths.ox.ac.uk).  He then held a 
+post-doc position in 
+the [Department of Chemical Engineering at Imperial College London](https://www.imperial.ac.uk/chemical-engineering), followed by a 
+[Marie Curie-Skłodowska Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) at the [Centre de Recerca Matematica](http://www.crm.cat) in Barcelona, and then returned to Oxford to take
+up a [Hooke Research Fellowship](https://www.maths.ox.ac.uk/people/research-fellowship-programmes/hooke-and-titchmarsh-fellowships).  Matt joined Bristol in 2021.
+
+
+
+## Current members
+
+:::{#current}
+:::
+
+## Former PhD students
+:::{#past_phd}
+:::
+
+## Former UG and PGT students
+:::{#past}
+:::

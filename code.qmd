@@ -1,0 +1,25 @@
+---
+title: Research software
+---
+
+Links to open-source software produced by members of the CFM Lab can be found below.
+
+## `ucompress.py`
+Lightweight Python code for simulating the unconfined compression of
+nonlinear poroelastic materials, including fibre-reinforced hydrogels.
+
+```{=html}
+<a class="btn btn-outline-dark", href="https://github.com/hennessymatt/ucompress.py" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i> GitHub
+</a>
+```
+
+## `PoroDropBeam`
+Finite element code to simulate the drying of a poroelastic film that is
+bonded to the upper surface of a cantilever.
+
+```{=html}
+<a class="btn btn-outline-dark", href="https://github.com/hennessymatt/PoroDropBeam" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i> GitHub
+</a>
+```

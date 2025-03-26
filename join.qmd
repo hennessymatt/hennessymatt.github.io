@@ -1,0 +1,41 @@
+---
+title: Join us
+---
+
+There are several opportunities to join the CFM Lab.  If any of the
+opportunities below are of interest to you, then please email Matt at
+ [matthew.hennessy@bristol.ac.uk](mailto:matthew.hennessy@bristol.ac.uk)
+ to discuss further.
+
+## PhD projects
+
+We are looking for talented and enthusiastic students to work on PhD projects.
+Applicants should have a keen interest in fluid and solid mechanics, numerical
+simulations, and using mathematical techniques to solve real-world problems.
+There may be opportunities to carry out experimental work as well.
+
+We currently have PhD projects relating to:
+
+* Evaporation of particle-laden fluids
+* Multi-scale modelling of polymer gels using machine learning
+* Optimisation of hydrogel-based drug delivery systems
+* Shrinkage and swelling during 3D printing
+* Electro- and magneto-active hydrogels
+
+
+Competitive funding is available for PhD projects. Application deadlines are typically at the end of January.  If you are interested in applying for a PhD position, you are strongly advised to get in touch **before January**.
+[Information about admission requirements can be found on the University of Bristol's website](https://www.bristol.ac.uk/study/postgraduate/research/engineering-mathematics).  
+
+
+## Post-doc opportunties
+
+<!-- The CFM Lab does not currently have funding for post-doctoral researchers.  Please check again as vacancies will be posted here. -->
+
+We will soon be recruiting two post-doc researchers to work on polyelectrolyte gels.  Please check back here for links to the vacancies.
+
+Below are some links for external funding for post-doctoral researchers:
+
+* [Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships) - for researchers currently based outside of the UK
+* [Royal Commission 1851 Fellowships](https://royalcommission1851.org/fellowships/research-fellowships) - for reseachers with less than 3 years of post-doc experience
+* [Royal Society University Research Fellowships](https://royalsociety.org/grants-schemes-awards/grants/university-research/) - for researchers based anywhere
+* [EPSRC fellowships](https://www.ukri.org/councils/epsrc/career-and-skills-development/fellowships/) - for researchers based anywhere

@@ -1,0 +1,20 @@
+<!-- <ul>
+    <% for (const item of items) { %>
+      <li>
+        <a href="<%- item.html %>"><%= item.title %></a>
+        <%= item.authors %>
+    </li>
+    <% } %>
+</ul> -->
+
+<% for (const item of items) { %>
+<p>
+<a href="<%- item.html %>"><%= item.title %></a>
+<br>
+<%= item.author %>
+<br>
+*<%= item.journal %>*
+<br>
+<%= item.year %>
+</p>
+<% } %>

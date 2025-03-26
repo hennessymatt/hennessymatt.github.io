@@ -1,0 +1,425 @@
+- title: "Interface conditions for a polyelectrolyte gel in a salt solution with a thin electrical double layer"
+  author: "Matthew G Hennessy"
+  journal: "Proceedings of the Royal Society A"
+  year: "2025"
+  abstract: "Polyelectrolyte gels are electro-active soft materials
+  that are often surrounded by a viscous salt solution.
+  The formation of an electrical double layer (EDL)
+  at the interface between the gel and the solution
+  can give rise to fluid-structure interactions driven
+  by Coulomb forces. However, these interactions
+  are usually neglected in modelling studies due to
+  the difficulty of resolving the EDL, which has a
+  thickness that is orders of magnitude smaller than the
+  characteristic gel size. In this paper, an asymptotically
+  consistent model of a polyelectrolyte gel that is
+  surrounded by a salt solution is derived in the thin-
+  EDL limit. The model consists of bulk equations
+  describing an electrically neutral gel and bath, along
+  with interfacial conditions that capture the electro-
+  mechanical impact of the EDL. A key result is
+  the derivation of a Helmholtz–Smoluchowski slip
+  condition that describes how shear stresses in the
+  EDL lead to a bulk flow in the surrounding salt
+  solution. The impact of this flow on gel-gel friction
+  and swelling-driven instabilities is discussed. The
+  model derived here will lead to a better understanding
+  of how polyelectrolyte gels interact with an external
+  salt solution, which is crucial for applications."
+  html: https://doi.org/10.1098/rspa.2024.0610
+
+- title: "The impact of confinement on the deformation of an elastic particle under
+  axisymmetric tube flow"
+  author: "Simon M Finney, Matthew G Hennessy, Andreas Münch, and Sarah L Waters"
+  journal: "IMA Journal of Applied Mathematics"
+  year: 2024
+  abstract: "We study an elastic particle translating axially along the centre-line of a rigid cylindrical tube filled with
+  a Newtonian viscous fluid. The flow is pressure-driven and an axial body force is applied to the particle.
+  We consider the regime in which the ratio of typical viscous fluid stress to elastic stiffness is small,
+  leading to small elastic strains in the particle. In this case, there is a one-way decoupling of the fluid-
+  structure interaction problem. The leading-order fluid problem is shown to be pressure-driven Stokes flow
+  past a rigid sphere, and is solved using the semi-analytical method of reflections. The traction exerted
+  by the fluid on the particle can be computed and used to formulate a pure solid-mechanics problem for
+  the deformation of the particle, which can be solved analytically. This framework is used to investigate
+  the role of the background flow, an axial body force, and the tube wall on the particle's leading-order
+  translational velocity, resulting deformation, and induced solid stress. By considering the first-order
+  fluid problem the next-order correction to the translational velocity of the particle is shown to be zero.
+  Depending on the magnitude of the ratio of applied body force to viscous forces, the particle can either
+  have a bullet-like shape, an anti-bullet shape, or retain its original spherical shape. A non-linear arbitrary
+  Lagrangian-Eulerian finite element implementation is used, in conjunction with various existing results
+  from the literature, to validate the method of reflections solutions and interrogate their range of validity."
+  html: "https://doi.org/10.1093/imamat/hxae022"
+
+
+- title: Exploiting in silico modelling to enhance translation of liver cell therapies from bench to bedside
+  author: Candice Ashmore-Harris, Evangelia, Antonopoulou, Simon M Finney, Melissa R Vieira, Matthew G Hennessy, Andreas Münch, Wei-Yu Lu, Victoria L Gadd,  Alicia J El Haj, Stuart J Forbes, Sarah L Waters
+  journal: npj Regenerative Medicine
+  volume: 9
+  number: 1
+  pages: 19
+  year: 2024
+  abstract: "Cell therapies are emerging as promising treatments for a range of liver diseases but translational bottlenecks still remain including: securing and assessing the safe and effective delivery of cells to the disease site; ensuring successful cell engraftment and function; and preventing immunogenic responses. Here we highlight three therapies, each utilising a different cell type, at different stages in their clinical translation journey: transplantation of multipotent mesenchymal stromal/signalling cells, hepatocytes and macrophages. To overcome bottlenecks impeding clinical progression, we advocate for wider use of mechanistic in silico modelling approaches. We discuss how in silico approaches, alongside complementary experimental approaches, can enhance our understanding of the mechanisms underlying successful cell delivery and engraftment. Furthermore, such combined theoretical-experimental approaches can be exploited to develop novel therapies, address safety and efficacy challenges, bridge the gap between in vitro and in vivo model systems, and compensate for the inherent differences between animal model systems and humans. We also highlight how in silico model development can result in fewer and more targeted in vivo experiments, thereby reducing preclinical costs and experimental animal numbers and potentially accelerating translation to the clinic. The development of biologically-accurate in silico models that capture the mechanisms underpinning the behaviour of these complex systems must be reinforced by quantitative methods to assess cell survival post-transplant, and we argue that non-invasive in vivo imaging strategies should be routinely integrated into transplant studies."
+  html: https://doi.org/10.1038/s41536-024-00361-3
+
+
+- title: "Curvature controls beading in soft coated elastic cylinders: Finite wavemode instability and localized modulations"
+  author: Matteo Taffetani and Matthew G Hennessy
+  journal: Journal of the Mechanics and Physics of Solids
+  pages: 105606
+  year: 2024
+  html: https://doi.org/10.1016/j.jmps.2024.105606
+  abstract: Axisymmetric beading instabilities in soft, elongated cylinders have been observed in a plethora of scenarios, ranging from cellular nanotunnels and nerves in biology to swollen cylinders and electrospun fibers in polymer physics. One of the common geometrical features that can be seen in these systems is the finite wavelength of the emerging pattern. However, modelling studies often predict that the instability has an infinite wavelength, which can be associated with localized necking or bulging. In this paper, we consider a soft elastic cylinder with a thin coating that resists bending, as described by the Helfrich free energy functional. The bending stiffness and natural mean curvature of the coating are two novel features whose competition against bulk elasticity and capillarity is investigated. For intermediate values of the bending stiffness, a linear stability analysis reveals that the mismatch between the current and natural mean curvature of the coating can lead to patterns emerging with a finite wavelength. This analysis creates a continuous bridge between the classical solutions of the shape equation obtained from the Helfrich functional and a curvature-controlled zero-wavemode instability, similar to the one induced by the competition between bulk elasticity and capillarity. A weakly non-linear analysis predicts that the criticality of the bifurcation depends on the controlling parameter, with both supercritical and subcritical bifurcations possible. When capillarity is introduced, the criticality of the bifurcation changes in a non-trivial way.
+
+
+- title: Breakdown of electroneutrality in polyelectrolyte gels
+  author: Matthew G Hennessy, Giulia L Celora, Andreas Münch, Barbara Wagner, and Sarah L Waters
+  journal: European Journal of Applied Mathematics
+  year: 2024
+  abstract: Mathematical models of polyelectrolyte gels are often simplified by assuming the gel is electrically neutral.  The rationale behind this assumption is that the thickness of the electric double layer (EDL) at the free surface of the gel is small compared to the size of the gel. Hence, the thin-EDL limit is taken, in which the thickness of the EDL is set to zero. Despite the widespread use of the thin-EDL limit, the solutions in the EDL are rarely computed and shown to match to the solutions for the electrically neutral bulk. The aims of this paper are to study the structure of the EDL and establish the validity of the thin-EDL limit. The model for the gel accounts for phase separation, which gives rise to diffuse interfaces with a thickness described by the Kuhn length. We show that the solutions in the EDL can only be asymptotically matched to the solutions for an electrically neutral bulk, in general, when the Debye length is much smaller than the Kuhn length. If the Debye length is similar to or larger than the Kuhn length, then phase separation can be initiated in the EDL.  This phase separation spreads into the bulk of the gel and gives rise to electrically charged layers with different degrees of swelling.  Thus, the thin-EDL limit and the assumption of electroneutrality only generally apply when the Debye length is much smaller than the Kuhn length.
+  html: https://doi.org/10.1017/S0956792523000244
+
+
+- title: Fiber reinforced hydrated networks recapitulate the poroelastic mechanics of articular cartilage
+  author: Axel C Moore, Matthew G Hennessy, Liebert P Nogueira, Susan J Franks, Matteo Taffetani, Hyejeong Seong, Yoo K Kang, Wei S Tan, Gregor Miklosic, Raya E  Laham, Kun Zhou, Lukeriya Zharova, John R King, Barbara Wagner, Havard J Haugen, Andreas Münch, and Molly M Stevens
+  journal: Acta Biomaterialia
+  year: 2023
+  html: https://doi.org/10.1016/j.actbio.2023.06.015
+  abstract: "The role of poroelasticity on the functional performance of articular cartilage has been established
+  in the scientific literature since the 1960s. Despite the extensive knowledge on this topic there
+  remain few attempts to design for poroelasticity and to our knowledge no demonstration of an
+  engineered poroelastic material that approaches physiological performance. In this paper, we
+  report on the development of an engineered material that begins to approach physiological
+  poroelasticity. We quantify poroelasticity using the fluid load fraction, apply mixture theory to
+  model the material system, and determine cytocompatibility using primary human mesenchymal
+  stem cells. The design approach is based on a fiber reinforced hydrated network and uses routine
+  fabrication methods (electrohydrodynamic deposition) and materials (poly[ɛ-caprolactone] and
+  gelatin) to develop the engineered poroelastic material. This composite material achieved a mean
+  peak fluid load fraction of 68%, displayed consistency with mixture theory, and demonstrated
+  cytocompatibility. This work creates a foundation for designing poroelastic cartilage implants and
+  developing scaffold systems to study chondrocyte mechanobiology and tissue engineering."
+
+- title: Time-dependent modelling of thin poroelastic films drying on deformable plates
+  author: Matthew G Hennessy, Richard V Craster, and Omar K Matar
+  journal: European Journal of Applied Mathematics
+  year: 2023
+  html: https://doi.org/10.1017/S0956792523000062
+  abstract: Understanding the generation of mechanical stress in drying, particle-laden films is important for a wide range of industrial processes. The cantilever experiment allows the stress in a drying film that has been deposited onto a thin plate to be quantified. Mechanical stresses in the film are transmitted to the plate and drive bending. Mathematical modelling enables the film stress to be inferred from measurements of the plate deflection. The aim of this paper is to present simplified models of the cantilever experiment that have been derived from the time-dependent equations of continuum mechanics using asymptotic methods. The film is described using nonlinear poroelasticity and the plate using nonlinear elasticity. In contrast to Stoney-like formulae, the simplified models account for films with non-uniform thickness and stress. The film model reduces to a single differential equation that can be solved independently of the plate equations. The plate model reduces to an extended form of the Foppl-von Karman (FvK) equations that accounts for gradients in the longitudinal traction acting on the plate surface. Consistent boundary conditions for the FvK equations are derived by resolving the Saint-Venant boundary layers at the free edges of the plate. The asymptotically reduced models are in excellent agreement with finite element solutions of the full governing equations. As the Péclet number increases, the time evolution of the plate deflection changes from $t$ to $t^{1/2}$, in agreement with experiments
+
+- title: The dynamics of a collapsing polyelectrolyte gel
+  author: Giulia L Celora, Matthew G Hennessy, Andreas Münch, Barbara Wagner, and Sarah L Waters
+  journal: SIAM Journal on Applied Mathematics
+  year: 2023
+  pages: 1146--1171
+  volume: 83
+  number: 3
+  html: https://epubs.siam.org/doi/10.1137/21M1419726
+  abstract: We analyse the dynamics of different routes to collapse of a constrained polyelectrolyte gel in contact with an ionic bath. The evolution of the gel is described by a model that incorporates non-linear elasticity, Stefan-Maxwell diffusion and interfacial gradient free energy to account for phase separation of the gel. A bifurcation analysis of the homogeneous equilibrium states reveals three solution branches at low ion concentrations in the bath, giving way to only one above a critical ion concentration. We present numerical solutions that capture both the spatial heterogeneity and the multiple time-scales involved in the process of collapse. These solutions are complemented by two analytical studies. Firstly, a phase-plane analysis that reveals the existence of a depletion front for the transition from the highly swollen to the new collapsed equilibrium state. This depletion front is initiated after the fast ionic diffusion has set the initial condition for this time regime. Secondly, we perform a linear stability analysis about the homogeneous states that show that for a range of ion concentrations in the bath, spinodal decomposition of the swollen state gives rise to localized solvent-rich(poor) and, due to the electro-neutrality condition, ion-poor(rich) phases that coarsen on the route to collapse. This dynamics of a collapsing polyelectrolyte gel has not been described before.
+  
+  
+- title: Optimal loading of hydrogel-based drug-delivery systems
+  author: Matthew J Penn and Matthew G Hennessy
+  journal: Applied Mathematical Modelling
+  year: 2022
+  pages: 649-668
+  html: https://doi.org/10.1016/j.apm.2022.08.008
+  abstract: Drug-loaded hydrogels provide a means to deliver pharmaceutical agents to specific sites within the body at a controlled rate. The aim of this paper is to understand how controlled drug release can be achieved by tuning the initial distribution of drug molecules in a hydrogel. A mathematical model is presented for a spherical drug-loaded hydrogel. The model captures the nonlinear elasticity of the polymer network and thermodynamics of swelling. By assuming that the drug molecules are dilute, the equations for hydrogel swelling and drug transport partially decouple. A fast optimisation method is developed to accurately compute the optimal initial drug concentration by minimising the error between the numerical drug-release profile and a target profile. By taking the target drug efflux to be piecewise constant, the optimal initial configuration consists of a central drug-loaded core with isolated drug packets near the free boundary of the hydrogel. The optimal initial drug concentration is highly effective at mitigating the burst effect, where a large amount of drug is rapidly released into the environment. The hydrogel stiffness can be used to further tune the rate of drug release. Although stiffer gels lead to less swelling and hence reduce the drug diffusivity, the drug-release kinetics are faster than for soft gels due to the decreased distance that drug molecules must travel to reach the free surface.
+
+- title: Fluid-fluid phase separation in a soft porous medium
+  author: Oliver W Paulin, Liam C Morrow, Matthew G Hennessy, Christopher W MacMinn
+  journal: Journal of Mechanics and Physics of Solids
+  year: 2022
+  html: https://doi.org/10.1016/j.jmps.2022.104892
+  pages: 104892
+  abstract: Various biological and chemical processes lead to the nucleation and growth of non-wetting fluid bubbles within the pore space of a granular medium, such as the formation of gas bubbles in liquid-saturated lake-bed sediments. In sufficiently soft porous materials, the non-wetting nature of these bubbles can result in the formation of open cavities within the granular solid skeleton. Here, we consider this process through the lens of phase separation, where thermomechanics govern the separation of the non-wetting phase from a fluid-fluid-solid mixture. We construct a phase-field model informed by large-deformation poromechanics, in which two immiscible fluids interact with a poroelastic solid skeleton. Our model captures the competing effects of elasticity and fluid-fluid-solid interactions. We use a phase-field damage model to capture the mechanics of the granular solid. As a model problem, we consider an initial distribution of non-wetting fluid in the pore space that separates into multiple cavities. We use simulations and linear-stability analysis to identify the key parameters that control phase separation, the conditions that favour the formation of cavities, and the characteristic size of the resulting cavities.
+
+
+- title: Drying-induced stresses in poroelastic drops on rigid substrates
+  author: Matthew G Hennessy, Richard V Craster, Omar K Matar
+  journal: Physical Review E
+  volume: 105
+  pages: 054602
+  year: 2022
+  html: https://doi.org/10.1103/PhysRevE.105.054602
+  abstract: We develop a theory for drying-induced stresses in sessile, poroelastic drops undergoing evaporation on rigid surfaces.  Using a lubrication-like approximation, the governing equations of three-dimensional nonlinear poroelasticity are reduced to a single thin-film equation for the drop thickness.  We find that thin drops experience compressive elastic stresses but the total in-plane stresses are tensile.  The mechanical response of the drop is dictated by the initial profile of the solid skeleton, which controls the in-plane deformation, the dominant components of elastic stress, and sets a limit on the depth of delamination that can potentially occur.  Our theory suggests that the alignment of desiccation fractures in colloidal drops is selected by the shape of the drop at the point of gelation.  We propose that the emergence of three distinct fracture patterns in dried blood drops is a consequence of a non-monotonic drop profile at gelation.  We also show that depletion fronts, which separate wet and dry solid, can invade the drop from the contact line and localise the generation of mechanical stress during drying. Finally, the finite element method is used to explore the stress profiles in drops with large contact angles.
+
+
+- title: A kinetic model of a polyelectrolyte gel undergoing phase separation
+  author: Giulia L Celora, Matthew G Hennessy, Andreas Münch, Barbara Wagner, and Sarah L Waters
+  journal: Journal of Mechanics and Physics of Solids
+  volume: 160
+  pages: 104771
+  year: 2022
+  html: https://doi.org/10.1016/j.jmps.2021.104771
+
+- title: Guyer--Krumhansl Heat Conduction in Thermoreflectance Experiments
+  author: Matthew G Hennessy and Timothy G Myers,
+  journal: Multidisciplinary Mathematical Modelling,
+  pages: 21,
+  year: 2021,
+  html: https://link.springer.com/chapter/10.1007/978-3-030-64272-3_2,
+
+
+- title: A Mathematical Model of Carbon Capture by Adsorption
+  author: Francesc Font, Timothy G Myers, and Matthew G Hennessy
+  journal: Multidisciplinary Mathematical Modelling
+  pages: 35--48
+  year: 2021
+  html: https://link.springer.com/chapter/10.1007/978-3-030-64272-3_3
+
+
+- title: Mathematical modelling of carbon capture in a packed column by adsorption
+  author: Timothy G Myers, Francesc Font, and Matthew G Hennessy
+  journal: Applied Energy
+  volume: 278
+  pages: 115565
+  year: 2020
+  html: https://doi.org/10.1016/j.apenergy.2020.115565
+
+
+- title: Asymptotic reduction and homogenization of a thermo-electrochemical model for a lithium-ion battery
+  author: Matthew G Hennessy and Iain R Moyles
+  journal: Applied Mathematical Modelling
+  volume: 80
+  pages: 724--754
+  year: 2020
+  html: https://doi.org/10.1016/j.apm.2019.11.018
+
+
+- title: The one-dimensional Stefan problem with non-Fourier heat conduction
+  author: Marc Calvo-Schwarzwälder, Timothy G Myers, and Matthew G Hennessy
+  journal: International Journal of Thermal Sciences
+  volume: 150
+  pages: 106210
+  year: 2020
+  html: https://doi.org/10.1016/j.ijthermalsci.2019.106210
+
+
+- title: Phase separation in swelling and deswelling hydrogels with a free boundary
+  author: Matthew G Hennessy, Andreas Münch, and Barbara Wagner
+  journal: Physical Review E
+  volume: 101
+  number: 3
+  pages: 032501
+  year: 2020
+  html: https://doi.org/10.1103/PhysRevE.101.032501
+
+
+- title: The Stefan problem with variable thermophysical properties and phase change temperature},
+  author: Timothy G Myers, Matthew G Hennessy, and Marc Calvo-Schwarzwälder
+  journal: International Journal of Heat and Mass Transfer
+  volume: 149
+  pages: 118975
+  year: 2020
+  html: https://doi.org/10.1016/j.ijheatmasstransfer.2019.118975
+
+  title: Phonon hydrodynamics in frequency-domain thermoreflectance experiments
+  author: A Beardo, MG Hennessy, L Sendra, J Camacho, TG Myers, J Bafaluy, and FX Alvarez
+  journal: Physical Review B
+  volume: 101
+  number: 7
+  pages: 075303
+  year: 2020
+  html: https://doi.org/10.1103/PhysRevB.101.075303
+
+
+- title: Modelling ultra-fast nanoparticle melting with the Maxwell--Cattaneo equation
+  author: Matthew G Hennessy, Marc Calvo-Schwarzwälder, and Timothy G Myers
+  journal: Applied Mathematical Modelling
+  volume: 69
+  pages: 201--222
+  year: 2019
+  html: https://doi.org/10.1016/j.apm.2018.12.004
+
+
+- title: "Elastic suppression of boiling in network fluids: A mechanism for hard-to-boil massecuite"
+  author: Matthew G Hennessy, Iain R Moyles, and Stuart J Thomson
+  journal: International Journal of Thermal Sciences
+  volume: 137
+  pages: 188--198
+  year: 2019
+  html: https://doi.org/10.1016/j.ijthermalsci.2018.10.030
+
+- title: Asymptotic reduction of a porous electrode model for lithium-ion batteries
+  author: Iain R Moyles, Matthew G Hennessy, Timothy G Myers, and Brian R Wetton
+  journal: SIAM Journal on Applied Mathematics
+  volume: 79
+  number: 4
+  pages: 1528--1549
+  year: 2019
+  html: https://doi.org/10.1137/18M1189579
+
+
+
+- title: Effective thermal conductivity of rectangular nanowires based on phonon hydrodynamics
+  author: Marc Calvo-Schwarzwälder, Matthew G Hennessy, Pol Torres, Timothy G Myers, and F Xaview Alvarez
+  journal: International Journal of Heat and Mass Transfer
+  volume: 126
+  pages: 1120--1128
+  year: 2018
+  html: https://doi.org/10.1016/j.ijheatmasstransfer.2018.05.096
+
+
+- title: Asymptotic analysis of the Guyer--Krumhansl--Stefan model for nanoscale solidification
+  author: Matthew G Hennessy, Marc Calvo-Schwarzwälder, and Timothy G Myers
+  journal: Applied Mathematical Modelling
+  volume: 61
+  pages: 1--17
+  year: 2018
+  html: https://doi.org/10.1016/j.apm.2018.03.026
+
+
+- title: A slip-based model for the size-dependent effective thermal conductivity of nanowires
+  author: M Calvo-Schwarzwälder, MG Hennessy, P Torres, TG Myers, and FX Alvarez
+  journal: International Communications in Heat and Mass Transfer
+  volume: 91
+  pages: 57--63
+  year: 2018
+  html: https://doi.org/10.1016/j.icheatmasstransfer.2017.11.013
+
+
+- title: Coarse-grained models for frontal photopolymerization with evolving conversion profile
+  author: Aloisius R Purnama, Matthew G Hennessy, Alessandra Vitale, and João T Cabral
+  journal: Polymer International
+  volume: 66
+  number: 6
+  pages: 752--760
+  year: 2017
+  html: https://doi.org/10.1002/pi.5344
+
+
+- title: A minimal model for solvent evaporation and absorption in thin films
+  author: Matthew G Hennessy, Giulia L Ferretti, João T Cabral, Omar K Matar
+  journal: Journal of Colloid and Interface Science
+  volume: 488
+  pages: 61--71
+  year: 2017
+  html: https://doi.org/10.1016/j.jcis.2016.10.074
+
+
+- title: Monomer diffusion into static and evolving polymer networks during frontal photopolymerisation
+  author: Matthew G Hennessy, Alessandra Vitale, Omar K Matar, and João T Cabral
+  journal: Soft Matter
+  volume: 13
+  number: 48
+  pages: 9199--9210
+  year: 2017
+  html: https://doi.org/10.1039/C7SM01279A
+
+
+- title: A two-phase model for evaporating solvent-polymer mixtures
+  author: Matthew G Hennessy, Christopher JW Breward, and Colin P Please
+  journal: SIAM Journal on Applied Mathematics
+  volume: 76
+  number: 4
+  pages: 1711--1736
+  year: 2016
+  html: https://doi.org/10.1137/15M1035707
+
+
+- title: Surface waves on a soft viscoelastic layer produced by an oscillating microbubble
+  author: Marc Tinguely, Matthew G Hennessy, Angelo Pommella, Omar K Matar, Valeria Garbin
+  journal: Soft Matter
+  volume: 12
+  number: 18
+  pages: 4247--4256
+  year: 2016
+  html: https://doi.org/10.1039/C5SM03084F
+
+
+
+- title: A unified approach for patterning via frontal photopolymerization
+  author: Alessandra Vitale, Matthew G Hennessy, Omar K Matar, and João T Cabral
+  journal: Advanced Materials
+  volume: 27
+  number: 40
+  pages: 6118--6124
+  year: 2015
+  html: https://doi.org/10.1002/adma.201502607
+
+
+
+- title: Mathematical modelling of Tyndall star initiation
+  author: Andrew A Lacey, Matthew G Hennessy, Pater Harvey, and Richard F Katz
+  journal: European Journal of Applied Mathematics
+  volume: 26
+  number: 5
+  pages: 615--645
+  year: 2015
+  html: https://doi.org/10.1017/S095679251500042X
+
+
+- title: Role of heat generation and thermal diffusion during frontal photopolymerization
+  author: Matthew G Hennessy, Alessandra Vitale, João T Cabral, and Omar K Matar
+  journal: Physical Review E
+  volume: 92
+  number: 2
+  pages: 022403
+  year: 2015
+  html: https://doi.org/10.1103/PhysRevE.92.022403
+
+- title: Controlling frontal photopolymerization with optical attenuation and mass diffusion
+  author: Matthew G Hennessy, Alessandra Vitale, Omar K Matar, and João T Cabral
+  journal: Physical Review E
+  volume: 91
+  number: 6
+  pages: 062402
+  year: 2015
+  html: https://doi.org/10.1103/PhysRevE.91.062402
+
+
+- title: Interfacial profile and propagation of frontal photopolymerization waves
+  author: Alessandra Vitale, Matthew G Hennessy, Omar K Matar, and João T Cabral
+  journal: Macromolecules
+  volume: 48
+  number: 1
+  pages: 198--205
+  year: 2015
+  html: https://doi.org/10.1021/ma5021215
+
+
+- title: Controlled topological transitions in thin-film phase separation
+  author: Matthew G Hennessy, Victor M Burlakov, Alain Goriely, Barbara Wagner, and Andreas Münch
+  journal: SIAM Journal on Applied Mathematics
+  volume: 75
+  number: 1
+  pages: 38--60
+  year: 2015
+  html: https://doi.org/10.1137/130950227
+
+
+- title: Dynamics of a slowly evaporating solvent--polymer mixture with a deformable upper surface
+  author: Matthew G Hennessy and Andreas Münch
+  journal: The IMA Journal of Applied Mathematics
+  volume: 79
+  number: 4
+  pages: 681--720
+  year: 2014
+  html: https://doi.org/10.1093/imamat/hxu024
+  
+
+- title: Propagating topological transformations in thin immiscible bilayer films
+  author: Mathew G Hennessy, Victor M Burlakov, Andreas Münch, Barbara Wagner, and Alain Goriely
+  journal: Europhysics Letters
+  volume: 105
+  number: 6
+  pages: 66001
+  year: 2014
+  html: https://doi.org/10.1209/0295-5075/105/66001
+
+
+- title: The primary flow transition in a differentially heated rotating channel of fluid with O(2) symmetry
+  author: Matthew G Hennessy and Gregory M Lewis
+  journal: Journal of Computational and Applied Mathematics
+  volume: 254
+  pages: 116--131
+  year: 2013
+  html: https://doi.org/10.1016/j.cam.2013.03.041
+
+- title: A multiple-scale analysis of evaporation induced Marangoni convection
+  author: Matthew G Hennessy and Andreas Münch
+  journal: SIAM Journal on Applied Mathematics
+  volume: 73
+  number: 2
+  pages: 974-1001
+  year: 2013
+  html: https://doi.org/10.1137/110849006

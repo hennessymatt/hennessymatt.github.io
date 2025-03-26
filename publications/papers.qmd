@@ -1,0 +1,7 @@
+---
+title: Publications
+listing:
+    - id: papers
+      contents: papers.yml   
+      template: papers.ejs
+---

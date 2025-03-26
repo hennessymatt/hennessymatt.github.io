@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "**CFM** Lab"
+  navbar:
+    pinned: True
+    left:
+      # - href: index.qmd
+      #   text: About
+      - members/members.qmd
+      - research.qmd
+      - href: projects.qmd
+        text: Projects
+      - publications/papers.qmd
+      - href: code.qmd
+        text: Code
+      - href: videos.qmd
+        text: Videos
+      - join.qmd
+format:
+  html:
+    theme: [default, custom.scss]
+    css: styles.css
+    fontsize: 1em
+    toc: false
+    include-in-header:
+      - includes.html
+

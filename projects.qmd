@@ -1,0 +1,16 @@
+---
+title: Funded research projects
+---
+
+The CFM Lab has received external funding for its major
+research projects.  Find out more about these projects below.
+
+## Multi-scale modelling of polyelectrolyte gels
+
+**EPSRC New Investigator Award**, UKRI093, Jan 2025--Dec 2027
+
+Polyelectrolyte (PE) gels are soft, fluid-filled solids that can change their size and shape in response to their environment.  The ability to control the response of a PE gel can lead to new technologies for artificial muscles, soft robotics, drug delivery, water purification, and energy storage.  However, the physics that provide PE gels with their responsiveness take place across multiple length scales, ranging from nanometres to centimetres.  Despite extensive modelling and experimental studies, it is still unclear how these physics manifest in the bulk response of the gel.  As a result, it is very difficult to design a PE gel so that it undergoes the right response for a given application.  
+
+The aim of this research is to harness the power of multi-scale mathematical methods to derive a new model of a PE gel based on continuum mechanics.  The model will explicitly capture the multiple length scales where the physics that underpin gel responsiveness take place.  By seeking exact and numerical solutions to the model, key behaviours of PE gels will be predicted, such as their degree of swelling, when their volume phase transition occurs, and how much they bend when placed in an electric field.  Experiments will be carried out to produce data for model validation and refinement.  To help investigate and predict stimuli-driven bending of PE gels, asymptotic methods will be used to develop simplified mathematical models for gels with thin geometries (e.g. gel plates, beams, and sheets). 
+
+This project will unlock the technological potential of PE gels by revealing how their environmental response can be tuned through their underlying physics.  In addition, the new, experimentally validated models can be used as tools to inform the design of PE gels and optimise their use in a wide range of transformative technologies.  For example, tuning how PE gels deswell can improve their ability to function as intelligent drug-delivery vehicles that release the right amount of drugs at the right place in the body. 
