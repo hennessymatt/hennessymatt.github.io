@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/publications/papers.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/news/announcement_27.html",
@@ -31,10 +35,6 @@
       "/news/announcement_02.html",
       "/news/announcement_01.html"
     ]
-  },
-  {
-    "listing": "/publications/papers.html",
-    "items": []
   },
   {
     "listing": "/news.html",
