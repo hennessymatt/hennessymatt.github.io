@@ -1,29 +1,26 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
 
 a {
     text-decoration: none;
+    font-weight: 500;
   }
 
 .navbar {
     border-bottom: 1px solid rgb(140, 140, 140);
+    font-weight: 500;
+}
+
+p {
+  font-weight: 500;
 }
 
 h1 {
   text-align: left;
-  font-family: sans-serif;
-  font-weight: lighter;
 }
 
 h2 {
   text-align: left;
-  font-family: sans-serif;
-  font-weight: lighter;
-}
-
-p {
-  font-family: sans-serif;
-}
-
-li {
-  font-family: sans-serif;
 }
