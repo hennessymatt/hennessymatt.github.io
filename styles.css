@@ -9,7 +9,7 @@ a {
   }
 
 .navbar {
-    border-bottom: 1px solid rgb(140, 140, 140);
+    border-bottom: 1px solid rgb(122, 122, 122);
     font-weight: 500;
 }
 
@@ -23,4 +23,8 @@ h1 {
 
 h2 {
   text-align: left;
+}
+
+li {
+  font-weight: 500;
 }
