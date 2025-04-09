@@ -71,29 +71,6 @@
   },
   {
     "listing": "/members/members.html",
-    "items": [
-      "/members/past/asmaa_slim.html",
-      "/members/past/jasper_knox.html",
-      "/members/past/amy_williams.html",
-      "/members/past/jack_gurney.html",
-      "/members/past/jacob_short.html",
-      "/members/past/keatan_gill.html",
-      "/members/past/nicoletta_lambrou.html",
-      "/members/past/james_webb.html",
-      "/members/past/matt_penn.html",
-      "/members/past/hriday_poduval.html",
-      "/members/past/matthew_ghosh.html",
-      "/members/past/charlie_risdale.html",
-      "/members/past/oviya.html",
-      "/members/past/ryan_salter.html",
-      "/members/past/rebecca_dodd.html",
-      "/members/past/dan_guest.html",
-      "/members/past/barbora_snarite.html",
-      "/members/past/haolin.html",
-      "/members/past/sally.html",
-      "/members/past/tilly.html",
-      "/members/past/benedict_fellows.html",
-      "/members/past/lizzi.html"
-    ]
+    "items": []
   }
 ]
