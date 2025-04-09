@@ -24,7 +24,7 @@ Meet the members of the CFM Lab
 
 **Matt Hennessy** leads the CFM Lab. His research interests lie at the interface
 of applied maths, materials science and engineering, and soft matter. He is a Senior Lecturer in Engineering Mathematics at the [University of Bristol](https://www.bristol.ac.uk/).
-Matt is passionate about using maths to solve real-world problems arising in ind ustry, and he is 
+Matt is passionate about using maths to solve real-world problems arising in industry, and he is 
 a Knowledge Exchange Champion for the [UK Knowledge Exchange Hub for Mathematical Sciences](https://www.kehubmaths.co.uk/).
 
 Matt obtained a BSc in Physics and Applied Mathematics from [Ontario Tech University](https://ontariotechu.ca).  He then completed an [MSc in 
