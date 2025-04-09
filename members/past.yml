@@ -1,0 +1,97 @@
+- name: Ben Hallett
+  description: "Optimisation of hydrogel-based drug-delivery systems (MEng project)"
+  date: 2025-04-09
+
+- name: Miles Weedon
+  description: "Using machine-learning surrogate models to calculate magnetic shape factors (MEng project)"
+  date: 2025-04-09
+
+
+- name: Amy Williams
+  description:  Optimisation of drug-delivery systems using physics-informed neural networks (MEng project)
+  date: 2024-05-10
+
+- name: Asmaa Slim
+  description:  Modelling and simulation of shrinkage during 3D printing (MSc project)
+  date: 2024-10-01
+
+- name: Barbora Snaraite
+  description:  Joule heating in nanowires (MSc project)
+  date: 2021-04-01
+
+- name: Benedict Fellows
+  description:  Heat transport in nanowires (undergraduate summer project)
+  date: 2019-07-01
+
+- name: Charlie Risdale
+  description: Modelling short circuits in lithium-ion batteries (BEng project)
+  img: assets/img/12.jpg
+  date: 2021-10-01
+
+- name: Daniel Guest
+  description:  One-phase reduction of Stefan problems (MMath project)
+  date: 2021-05-01
+
+- name: Haolin Yang
+  description:  Drying-induced stresses in poroelastic materials (MSc project)
+  date: 2020-08-01
+
+- name: Hriday Poduval
+  description:  Modelling hydrogel-based drug-delivery systems (MSc project)
+  date: 2022-12-31
+
+- name: Jack Gurney
+  description:  Spin-coating of polymer mixtures (MEng project)
+  date: 2024-05-10
+
+- name: Jacob Short
+  description:  Mathematical modelling of dual-wavelength 3D printing (MSc project)
+  date: 2024-05-10
+
+- name: James Webb
+  description:  Evaporation-driven phase separation of polymer solutions (MEng project)
+  date: 2023-05-15
+
+- name: Jasper Knox
+  description:  Modelling and simulation of phase separation in biological fluids (MSc project)
+  date: 2024-10-01
+
+- name: Keatan Gill
+  description:  Short-circuit detection in batteries using machine learning (MEng project)
+  date: 2024-05-10
+
+- name: Elizabeth Hayman
+  description:  Using phase-change materials to cool lithium-ion batteries (EPSRC-funded summer project)
+  date: 2019-07-01
+  
+- name: Matthew Penn
+  description:  Optimisation of hydrogel-based drug-delivery systems (MMath project)
+  date: 2023-04-01
+
+- name: Matthew Ghosh
+  description: Derivation of poroelastic shell theories (summer research project)
+  date: 2022-07-01
+
+- name: Nicoletta Lambrou
+  description:  Using physics-informed neural networks to simulate 3D printing (MSc project)
+  date: 2023-10-01
+
+- name: Oviya Kumanan
+  description:  Swelling of spherical hydrogels (MMath project)
+  date: 2021-09-01
+
+- name: Rebecca Dodd
+  description:  Anisotropic hydrogels for artificial cartilage (MMath project)
+  date: 2021-07-01
+
+- name: Ryan Salter
+  description:  Finite-element simulations of heat flow in nanowires (MMath project)
+  date: 2021-08-01
+
+- name: Sally Jones
+  description:  Nonlinear viscoelastic modelling of hydrogels (MMath project)
+  date: 2020-08-01
+
+- name: Natalie Woods
+  description:  Transient swelling of hydrogels (MMath project)
+  date: 2020-08-01

@@ -10,7 +10,7 @@ listing:
       template: past.ejs
 
     - id: past
-      contents: "past/*.md"
+      contents: "past.yml"
       template: past.ejs
       sort: "date desc"
 
