@@ -12,7 +12,7 @@ opportunities below are of interest to you, then please email Matt at
 We are looking for talented and enthusiastic students to work on PhD projects.
 Applicants should have a keen interest in fluid and solid mechanics, numerical
 simulations, and using mathematical techniques to solve real-world problems.
-There may be opportunities to carry out experimental work as well.
+There are opportunities to carry out experimental work as well.
 
 We currently have PhD projects relating to:
 
@@ -23,8 +23,11 @@ We currently have PhD projects relating to:
 * Electro- and magneto-active hydrogels
 
 
-Competitive funding is available for PhD projects. Application deadlines are typically at the end of January.  If you are interested in applying for a PhD position, you are strongly advised to get in touch **before January**.
-[Information about admission requirements can be found here](https://www.bristol.ac.uk/study/postgraduate/research/engineering-mathematics).  
+Competitive funding is available for PhD projects. 
+Details of PhD studentships are usually announced around December.
+Application deadlines are typically at the end of January.  If you are interested in joining the group as a PhD student, you are strongly advised to get in touch in **November or December**.
+
+[Information about admission requirements for a PhD in Engineering Mathematics can be found here](https://www.bristol.ac.uk/study/postgraduate/research/engineering-mathematics).  
 
 
 ## Post-doc opportunties
