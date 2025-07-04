@@ -8,10 +8,10 @@ website:
     left:
       # - href: index.qmd
       #   text: About
-      - members/members.qmd
       - research.qmd
       - href: projects.qmd
         text: Projects
+      - members/members.qmd
       - publications/papers.qmd
       - href: code.qmd
         text: Code
