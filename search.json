@@ -1,178 +1,45 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Funded research projects",
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Research videos",
     "section": "",
-    "text": "The CFM Lab has received external funding for its major research projects. Find out more about these projects below."
+    "text": "Videos of some of our research highlights"
   },
   {
-    "objectID": "projects.html#multi-scale-modelling-of-polyelectrolyte-gels",
-    "href": "projects.html#multi-scale-modelling-of-polyelectrolyte-gels",
-    "title": "Funded research projects",
-    "section": "Multi-scale modelling of polyelectrolyte gels",
-    "text": "Multi-scale modelling of polyelectrolyte gels\nEPSRC New Investigator Award, UKRI093, Jan 2025–Dec 2027\nPolyelectrolyte (PE) gels are soft, fluid-filled solids that can change their size and shape in response to their environment. The ability to control the response of a PE gel can lead to new technologies for artificial muscles, soft robotics, drug delivery, water purification, and energy storage. However, the physics that provide PE gels with their responsiveness take place across multiple length scales, ranging from nanometres to centimetres. Despite extensive modelling and experimental studies, it is still unclear how these physics manifest in the bulk response of the gel. As a result, it is very difficult to design a PE gel so that it undergoes the right response for a given application.\nThe aim of this research is to harness the power of multi-scale mathematical methods to derive a new model of a PE gel based on continuum mechanics. The model will explicitly capture the multiple length scales where the physics that underpin gel responsiveness take place. By seeking exact and numerical solutions to the model, key behaviours of PE gels will be predicted, such as their degree of swelling, when their volume phase transition occurs, and how much they bend when placed in an electric field. Experiments will be carried out to produce data for model validation and refinement. To help investigate and predict stimuli-driven bending of PE gels, asymptotic methods will be used to develop simplified mathematical models for gels with thin geometries (e.g. gel plates, beams, and sheets).\nThis project will unlock the technological potential of PE gels by revealing how their environmental response can be tuned through their underlying physics. In addition, the new, experimentally validated models can be used as tools to inform the design of PE gels and optimise their use in a wide range of transformative technologies. For example, tuning how PE gels deswell can improve their ability to function as intelligent drug-delivery vehicles that release the right amount of drugs at the right place in the body."
+    "objectID": "videos.html#optimisation-of-drug-delivery-systems",
+    "href": "videos.html#optimisation-of-drug-delivery-systems",
+    "title": "Research videos",
+    "section": "Optimisation of drug-delivery systems",
+    "text": "Optimisation of drug-delivery systems"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Complex and Functional Materials Lab",
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join us",
     "section": "",
-    "text": "School of Engineering Mathematics and Technology, University of Bristol, United Kingdom\nWe use applied mathematics, experiments, and computational methods to describe the behaviours of fluids and solids. The aim of our research is to guide the development of new functional materials that can be used in modern applications."
+    "text": "There are several opportunities to join the CFM Lab. If any of the opportunities below are of interest to you, then please email Matt at matthew.hennessy@bristol.ac.uk to discuss further."
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Complex and Functional Materials Lab",
-    "section": "News",
-    "text": "News\n\nAug 1, 2025 We welcome Peter Lewin-Jones to the group!\nJul 21, 2025 Simon’s paper on modelling the behaviour of a poroelastic particle in a Stokes flow has just been accepted in PRF!\nMay 18, 2025 We welcome Jake Bowhay to the group!\nApr 15, 2025 We are now recruiting a post-doc to work on modelling polyelectrolyte gels. Please see the join us page for details\nMar 20, 2025 We welcome Jasper Knox back to the group! Jasper will start a PhD on modelling biological condensates.\nNo matching items"
+    "objectID": "join.html#phd-projects",
+    "href": "join.html#phd-projects",
+    "title": "Join us",
+    "section": "PhD projects",
+    "text": "PhD projects\nWe are looking for talented and enthusiastic students to work on PhD projects. Applicants should have a keen interest in fluid and solid mechanics, numerical simulations, and using mathematical techniques to solve real-world problems. There are opportunities to carry out experimental work as well.\nWe currently have PhD projects relating to:\n\nEvaporation of particle-laden fluids\nMulti-scale modelling of polymer gels using machine learning\nOptimisation of hydrogel-based drug delivery systems\nShrinkage and swelling during 3D printing\nElectro- and magneto-active hydrogels\n\nCompetitive funding is available for PhD projects. Details of PhD studentships are usually announced around December. Application deadlines are typically at the end of January. If you are interested in joining the group as a PhD student, you are strongly advised to get in touch in November or December.\nInformation about admission requirements for a PhD in Engineering Mathematics can be found here."
   },
   {
-    "objectID": "news/announcement_17.html",
-    "href": "news/announcement_17.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "We welcome Yaojue Xiong to the group! Yaojue will use modelling, simulation, and experiments to study fracture of drying drops."
-  },
-  {
-    "objectID": "news/announcement_05.html",
-    "href": "news/announcement_05.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Oliver’s paper on fluid-fluid phase separation in soft granular materials has been accepted in JMPS. We derive a thermodynamically consistent model to capture the formation of cavities within the granular material when one fluid phase is strongly non-wetting."
-  },
-  {
-    "objectID": "news/announcement_09.html",
-    "href": "news/announcement_09.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "We welcome James Webb to the group! James will investigate how the evaporation rate can be used create nanostructured polymeric materials for use in organic solar cells."
-  },
-  {
-    "objectID": "news/announcement_11.html",
-    "href": "news/announcement_11.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "We welcome Will Simpkins to the group! Will’s PhD project will focus on modelling thin, morphing structures."
-  },
-  {
-    "objectID": "news/announcement_18.html",
-    "href": "news/announcement_18.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "We welome Amy Williams, Keatan Gill, and Jack Gurney to the group! They will work on various final-year projects for their MEng degrees; see the People page for more info!"
-  },
-  {
-    "objectID": "news/announcement_04.html",
-    "href": "news/announcement_04.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "The CFM Lab welcomes Hriday Poduval to the group! Hriday will work on modelling drug-loaded hydrogels."
-  },
-  {
-    "objectID": "news/announcement_13.html",
-    "href": "news/announcement_13.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Matt in collaboration with Sebastien Rochat has been awarded a pump-priming grant to study the volume phase transition in stimuli-responsive gels using experiments and modelling."
-  },
-  {
-    "objectID": "news/announcement_21.html",
-    "href": "news/announcement_21.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Our paper with Matteo Taffetani on modelling beading in soft elastic cylinders has been accepted in JMPS."
-  },
-  {
-    "objectID": "news/announcement_08.html",
-    "href": "news/announcement_08.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Matt Penn’s paper on optimising drug release from hydrogels has been accepted for publication. In this paper, we explore how the initial drug concentration can be used to optimise the release of drugs."
-  },
-  {
-    "objectID": "news/announcement_24.html",
-    "href": "news/announcement_24.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Matt has received funding for an EPSRC New Investigator Award that will focus on modelling and experiments of polyelectrolyte gels. We will soon be recruiting two PDRAs to join the group."
-  },
-  {
-    "objectID": "news/announcement_14.html",
-    "href": "news/announcement_14.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Our paper on the drying of poroelastic films on cantilever beams has been accepted for publication in EJAM. We develop reduced-order models and validate them against finite element simulations."
-  },
-  {
-    "objectID": "news/announcement_10.html",
-    "href": "news/announcement_10.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Our paper on the collapse of polyelectrolyte gels has been accepted in SIAP. In this paper, we study how polyelectrolyte gels deswell during the volume phase transition."
-  },
-  {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Research software",
-    "section": "",
-    "text": "Links to open-source software produced by members of the CFM Lab can be found below."
-  },
-  {
-    "objectID": "code.html#ucompress.py",
-    "href": "code.html#ucompress.py",
-    "title": "Research software",
-    "section": "ucompress.py",
-    "text": "ucompress.py\nLightweight Python code for simulating the unconfined compression of nonlinear poroelastic materials, including fibre-reinforced hydrogels.\n\n     GitHub"
-  },
-  {
-    "objectID": "code.html#porodropbeam",
-    "href": "code.html#porodropbeam",
-    "title": "Research software",
-    "section": "PoroDropBeam",
-    "text": "PoroDropBeam\nFinite element code to simulate the drying of a poroelastic film that is bonded to the upper surface of a cantilever.\n\n     GitHub"
+    "objectID": "join.html#post-doc-opportunties",
+    "href": "join.html#post-doc-opportunties",
+    "title": "Join us",
+    "section": "Post-doc opportunties",
+    "text": "Post-doc opportunties\n\nWe will soon be looking recruit a post-doctoral researcher to conduct experiments with electrically charged polymer gels (polyelectrolyte gels). The vacancy is likely to open in autumn 2025. Please check back here regularly.\nBelow are some links for external funding for post-doctoral researchers:\n\nMarie Skłodowska-Curie Individual Fellowships - for researchers currently based outside of the UK\nRoyal Commission 1851 Fellowships - for reseachers with less than 3 years of post-doc experience\nRoyal Society University Research Fellowships - for researchers based anywhere\nEPSRC fellowships - for researchers based anywhere"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Aug 1, 2025 We welcome Peter Lewin-Jones to the group!\nJul 21, 2025 Simon’s paper on modelling the behaviour of a poroelastic particle in a Stokes flow has just been accepted in PRF!\nMay 18, 2025 We welcome Jake Bowhay to the group!\nApr 15, 2025 We are now recruiting a post-doc to work on modelling polyelectrolyte gels. Please see the join us page for details\nMar 20, 2025 We welcome Jasper Knox back to the group! Jasper will start a PhD on modelling biological condensates.\nJan 20, 2025 We welcome Gunay Hummatova to the group! Gunay is an MSc student working on modelling the fabrication of organic solar cells.\nJan 8, 2025 Congratulations to Simon for passing his DPhil viva!\nDec 1, 2024 \nNov 1, 2024 \nOct 1, 2024 \nAug 28, 2024 \nMar 11, 2024 \nMar 8, 2024 \nFeb 1, 2024 \nOct 2, 2023 \nSep 25, 2023 \nAug 3, 2023 \nJun 20, 2023 \nMar 1, 2023 \nJan 24, 2023 \nJan 8, 2023 \nNov 20, 2022 \nOct 30, 2022 \nOct 1, 2022 \nAug 10, 2022 \nJun 26, 2022 \nApr 12, 2022 \nApr 4, 2022 \nJan 28, 2022 \nJan 18, 2022 \nOct 16, 2021 \nOct 14, 2021 The CFM lab welcomes Charlie Risdale. Charlie will work on modelling short circuits in lithium-ion batteries\nNo matching items"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "We combine mathematical modelling with experiments to learn about the behaviours of fluids and solids. A summary of our active research themes is below. Feel free to reach out if you would like to discuss collaboration opportunities."
-  },
-  {
-    "objectID": "research.html#mechanics-of-hydrogels",
-    "href": "research.html#mechanics-of-hydrogels",
-    "title": "Research",
-    "section": "Mechanics of hydrogels",
-    "text": "Mechanics of hydrogels\n\n\n\n\n\nHydrogels are soft, porous solids that are extremely water absorbent. Some hydrogels are able to absorb more than 1000 times their dry mass of water! Moreover, many hydrogels are responsive to their environment. This means that stimuli such as temperature, electricity, and magnetism can be used to alter how much water they absorb and hence control their shape. The behaviour of hydrogels is governed by a delicate interplay of fluid and solid mechanics and thermodynamics, making them particularly interesting to study. Our research on hydrogels involves:\n\nMulti-scale and microstructural modelling of hydrogels\nModelling of thermo-, electro-, and magneto-responsive hydrogels\nPhase separation and phase transitions in hydrogels\nHow hydrogels interact with external fluids\nBiomedical applications of hydrogels (artificial cartilage, drug delivery)\n\n\n\n\nComplex fluids\n\n\n\n\n\nFluids that appear in industrial and biological contexts are usually not simple liquids. Instead, these fluids often have a liquid and solid component. The solid component could be grains in the case of coffee or cells in the case of blood. The physical properties of the fluid can be strongly impacted by the solid component, as anyone who has added cornstarch to water knows. Fluids with a solid component are usually called complex fluids, owning to their complex mechanical behaviours. Our research into complex fluids has focused on:\n\nFracture and delamination of evaporating colloidal suspensions\nGelation of complex fluids\nPhase separation in polymer solutions and biological fluids\nViscoelasticity and poroelasticity\nPattern formation in granular fluids\n\n\n\n\nLight-driven 3D printing\n\n\n\n\n\n3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:\n\nDeriving minimal models that capture mass transport, optical attenuation, and thermal effects\nUnderstanding the fluid and solid mechanics of 3D printing\nUsing machine learning to simulate and optimise 3D printing\nModelling dual- and multi-wavelength 3D printing\n\n\n\n\nLithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
-  },
-  {
-    "objectID": "research.html#complex-fluids",
-    "href": "research.html#complex-fluids",
-    "title": "Research",
-    "section": "Complex fluids",
-    "text": "Complex fluids\n\n\n\n\n\nFluids that appear in industrial and biological contexts are usually not simple liquids. Instead, these fluids often have a liquid and solid component. The solid component could be grains in the case of coffee or cells in the case of blood. The physical properties of the fluid can be strongly impacted by the solid component, as anyone who has added cornstarch to water knows. Fluids with a solid component are usually called complex fluids, owning to their complex mechanical behaviours. Our research into complex fluids has focused on:\n\nFracture and delamination of evaporating colloidal suspensions\nGelation of complex fluids\nPhase separation in polymer solutions and biological fluids\nViscoelasticity and poroelasticity\nPattern formation in granular fluids\n\n\n\n\nLight-driven 3D printing\n\n\n\n\n\n3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:\n\nDeriving minimal models that capture mass transport, optical attenuation, and thermal effects\nUnderstanding the fluid and solid mechanics of 3D printing\nUsing machine learning to simulate and optimise 3D printing\nModelling dual- and multi-wavelength 3D printing\n\n\n\n\nLithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
-  },
-  {
-    "objectID": "research.html#light-driven-3d-printing",
-    "href": "research.html#light-driven-3d-printing",
-    "title": "Research",
-    "section": "Light-driven 3D printing",
-    "text": "Light-driven 3D printing\n\n\n\n\n\n3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:\n\nDeriving minimal models that capture mass transport, optical attenuation, and thermal effects\nUnderstanding the fluid and solid mechanics of 3D printing\nUsing machine learning to simulate and optimise 3D printing\nModelling dual- and multi-wavelength 3D printing\n\n\n\n\nLithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
-  },
-  {
-    "objectID": "research.html#lithium-ion-batteries",
-    "href": "research.html#lithium-ion-batteries",
-    "title": "Research",
-    "section": "Lithium-ion batteries",
-    "text": "Lithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
+    "text": "Sep 8, 2025 Our paper on modelling fibre-reinforced hydrogels has been accepted for publication in JMPS. In this paper, we reveal the critical role that slack in the fibre network plays in controlling the response of these materials.\nAug 1, 2025 We welcome Peter Lewin-Jones to the group! Peter will work on multi-scale modelling of polyelectrolyte gels.\nJul 21, 2025 Simon’s paper on modelling the behaviour of a poroelastic particle in a Stokes flow has just been accepted in PRF!\nMay 18, 2025 We welcome Jake Bowhay to the group!\nApr 15, 2025 We are now recruiting a post-doc to work on modelling polyelectrolyte gels. Please see the join us page for details\nMar 20, 2025 We welcome Jasper Knox back to the group! Jasper will start a PhD on modelling biological condensates.\nJan 20, 2025 We welcome Gunay Hummatova to the group! Gunay is an MSc student working on modelling the fabrication of organic solar cells.\nJan 8, 2025 Congratulations to Simon for passing his DPhil viva!\nDec 1, 2024 \nNov 1, 2024 \nOct 1, 2024 \nAug 28, 2024 \nMar 11, 2024 \nMar 8, 2024 \nFeb 1, 2024 \nOct 2, 2023 \nSep 25, 2023 \nAug 3, 2023 \nJun 20, 2023 \nMar 1, 2023 \nJan 24, 2023 \nJan 8, 2023 \nNov 20, 2022 \nOct 30, 2022 \nOct 1, 2022 \nAug 10, 2022 \nJun 26, 2022 \nApr 12, 2022 \nApr 4, 2022 \nJan 28, 2022 \nJan 18, 2022 \nOct 16, 2021 \nOct 14, 2021 The CFM lab welcomes Charlie Risdale. Charlie will work on modelling short circuits in lithium-ion batteries\nNo matching items"
   },
   {
     "objectID": "members/members.html",
@@ -210,39 +77,109 @@
     "text": "Former UG and PGT students\n\nBen Hallett - Optimisation of hydrogel-based drug-delivery systems (MEng project)\nMiles Weedon - Using machine-learning surrogate models to calculate magnetic shape factors (MEng project)\nAsmaa Slim - Modelling and simulation of shrinkage during 3D printing (MSc project)\nJasper Knox - Modelling and simulation of phase separation in biological fluids (MSc project)\nAmy Williams - Optimisation of drug-delivery systems using physics-informed neural networks (MEng project)\nJack Gurney - Spin-coating of polymer mixtures (MEng project)\nJacob Short - Mathematical modelling of dual-wavelength 3D printing (MSc project)\nKeatan Gill - Short-circuit detection in batteries using machine learning (MEng project)\nNicoletta Lambrou - Using physics-informed neural networks to simulate 3D printing (MSc project)\nJames Webb - Evaporation-driven phase separation of polymer solutions (MEng project)\nMatthew Penn - Optimisation of hydrogel-based drug-delivery systems (MMath project)\nHriday Poduval - Modelling hydrogel-based drug-delivery systems (MSc project)\nMatthew Ghosh - Derivation of poroelastic shell theories (summer research project)\nCharlie Risdale - Modelling short circuits in lithium-ion batteries (BEng project)\nOviya Kumanan - Swelling of spherical hydrogels (MMath project)\nRyan Salter - Finite-element simulations of heat flow in nanowires (MMath project)\nRebecca Dodd - Anisotropic hydrogels for artificial cartilage (MMath project)\nDaniel Guest - One-phase reduction of Stefan problems (MMath project)\nBarbora Snaraite - Joule heating in nanowires (MSc project)\nHaolin Yang - Drying-induced stresses in poroelastic materials (MSc project)\nSally Jones - Nonlinear viscoelastic modelling of hydrogels (MMath project)\nNatalie Woods - Transient swelling of hydrogels (MMath project)\nBenedict Fellows - Heat transport in nanowires (undergraduate summer project)\nElizabeth Hayman - Using phase-change materials to cool lithium-ion batteries (EPSRC-funded summer project)\nNo matching items"
   },
   {
-    "objectID": "publications/papers.html",
-    "href": "publications/papers.html",
-    "title": "Publications",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Weakly deformable poroelastic particle in an unbounded Stokes flow  Simon M Finney, Matthew G Hennessy, Andreas Münch, and Sarah L Waters  Physical Review Fluids  2025\n\n\nInterface conditions for a polyelectrolyte gel in a salt solution with a thin electrical double layer  Matthew G Hennessy  Proceedings of the Royal Society A  2025\n\n\nThe impact of confinement on the deformation of an elastic particle under axisymmetric tube flow  Simon M Finney, Matthew G Hennessy, Andreas Münch, and Sarah L Waters  IMA Journal of Applied Mathematics  2024\n\n\nExploiting in silico modelling to enhance translation of liver cell therapies from bench to bedside  Candice Ashmore-Harris, Evangelia, Antonopoulou, Simon M Finney, Melissa R Vieira, Matthew G Hennessy, Andreas Münch, Wei-Yu Lu, Victoria L Gadd, Alicia J El Haj, Stuart J Forbes, Sarah L Waters  npj Regenerative Medicine  2024\n\n\nCurvature controls beading in soft coated elastic cylinders: Finite wavemode instability and localized modulations  Matteo Taffetani and Matthew G Hennessy  Journal of the Mechanics and Physics of Solids  2024\n\n\nBreakdown of electroneutrality in polyelectrolyte gels  Matthew G Hennessy, Giulia L Celora, Andreas Münch, Barbara Wagner, and Sarah L Waters  European Journal of Applied Mathematics  2024\n\n\nFiber reinforced hydrated networks recapitulate the poroelastic mechanics of articular cartilage  Axel C Moore, Matthew G Hennessy, Liebert P Nogueira, Susan J Franks, Matteo Taffetani, Hyejeong Seong, Yoo K Kang, Wei S Tan, Gregor Miklosic, Raya E Laham, Kun Zhou, Lukeriya Zharova, John R King, Barbara Wagner, Havard J Haugen, Andreas Münch, and Molly M Stevens  Acta Biomaterialia  2023\n\n\nTime-dependent modelling of thin poroelastic films drying on deformable plates  Matthew G Hennessy, Richard V Craster, and Omar K Matar  European Journal of Applied Mathematics  2023\n\n\nThe dynamics of a collapsing polyelectrolyte gel  Giulia L Celora, Matthew G Hennessy, Andreas Münch, Barbara Wagner, and Sarah L Waters  SIAM Journal on Applied Mathematics  2023\n\n\nOptimal loading of hydrogel-based drug-delivery systems  Matthew J Penn and Matthew G Hennessy  Applied Mathematical Modelling  2022\n\n\nFluid-fluid phase separation in a soft porous medium  Oliver W Paulin, Liam C Morrow, Matthew G Hennessy, Christopher W MacMinn  Journal of Mechanics and Physics of Solids  2022\n\n\nDrying-induced stresses in poroelastic drops on rigid substrates  Matthew G Hennessy, Richard V Craster, Omar K Matar  Physical Review E  2022\n\n\nA kinetic model of a polyelectrolyte gel undergoing phase separation  Giulia L Celora, Matthew G Hennessy, Andreas Münch, Barbara Wagner, and Sarah L Waters  Journal of Mechanics and Physics of Solids  2022\n\n\nGuyer–Krumhansl Heat Conduction in Thermoreflectance Experiments  Matthew G Hennessy and Timothy G Myers,  Multidisciplinary Mathematical Modelling,  2021,\n\n\nA Mathematical Model of Carbon Capture by Adsorption  Francesc Font, Timothy G Myers, and Matthew G Hennessy  Multidisciplinary Mathematical Modelling  2021\n\n\nMathematical modelling of carbon capture in a packed column by adsorption  Timothy G Myers, Francesc Font, and Matthew G Hennessy  Applied Energy  2020\n\n\nAsymptotic reduction and homogenization of a thermo-electrochemical model for a lithium-ion battery  Matthew G Hennessy and Iain R Moyles  Applied Mathematical Modelling  2020\n\n\nThe one-dimensional Stefan problem with non-Fourier heat conduction  Marc Calvo-Schwarzwälder, Timothy G Myers, and Matthew G Hennessy  International Journal of Thermal Sciences  2020\n\n\nPhase separation in swelling and deswelling hydrogels with a free boundary  Matthew G Hennessy, Andreas Münch, and Barbara Wagner  Physical Review E  2020\n\n\nPhonon hydrodynamics in frequency-domain thermoreflectance experiments  A Beardo, MG Hennessy, L Sendra, J Camacho, TG Myers, J Bafaluy, and FX Alvarez  Physical Review B  2020\n\n\nModelling ultra-fast nanoparticle melting with the Maxwell–Cattaneo equation  Matthew G Hennessy, Marc Calvo-Schwarzwälder, and Timothy G Myers  Applied Mathematical Modelling  2019\n\n\nElastic suppression of boiling in network fluids: A mechanism for hard-to-boil massecuite  Matthew G Hennessy, Iain R Moyles, and Stuart J Thomson  International Journal of Thermal Sciences  2019\n\n\nAsymptotic reduction of a porous electrode model for lithium-ion batteries  Iain R Moyles, Matthew G Hennessy, Timothy G Myers, and Brian R Wetton  SIAM Journal on Applied Mathematics  2019\n\n\nEffective thermal conductivity of rectangular nanowires based on phonon hydrodynamics  Marc Calvo-Schwarzwälder, Matthew G Hennessy, Pol Torres, Timothy G Myers, and F Xaview Alvarez  International Journal of Heat and Mass Transfer  2018\n\n\nAsymptotic analysis of the Guyer–Krumhansl–Stefan model for nanoscale solidification  Matthew G Hennessy, Marc Calvo-Schwarzwälder, and Timothy G Myers  Applied Mathematical Modelling  2018\n\n\nA slip-based model for the size-dependent effective thermal conductivity of nanowires  M Calvo-Schwarzwälder, MG Hennessy, P Torres, TG Myers, and FX Alvarez  International Communications in Heat and Mass Transfer  2018\n\n\nCoarse-grained models for frontal photopolymerization with evolving conversion profile  Aloisius R Purnama, Matthew G Hennessy, Alessandra Vitale, and João T Cabral  Polymer International  2017\n\n\nA minimal model for solvent evaporation and absorption in thin films  Matthew G Hennessy, Giulia L Ferretti, João T Cabral, Omar K Matar  Journal of Colloid and Interface Science  2017\n\n\nMonomer diffusion into static and evolving polymer networks during frontal photopolymerisation  Matthew G Hennessy, Alessandra Vitale, Omar K Matar, and João T Cabral  Soft Matter  2017\n\n\nA two-phase model for evaporating solvent-polymer mixtures  Matthew G Hennessy, Christopher JW Breward, and Colin P Please  SIAM Journal on Applied Mathematics  2016\n\n\nSurface waves on a soft viscoelastic layer produced by an oscillating microbubble  Marc Tinguely, Matthew G Hennessy, Angelo Pommella, Omar K Matar, Valeria Garbin  Soft Matter  2016\n\n\nA unified approach for patterning via frontal photopolymerization  Alessandra Vitale, Matthew G Hennessy, Omar K Matar, and João T Cabral  Advanced Materials  2015\n\n\nMathematical modelling of Tyndall star initiation  Andrew A Lacey, Matthew G Hennessy, Pater Harvey, and Richard F Katz  European Journal of Applied Mathematics  2015\n\n\nRole of heat generation and thermal diffusion during frontal photopolymerization  Matthew G Hennessy, Alessandra Vitale, João T Cabral, and Omar K Matar  Physical Review E  2015\n\n\nControlling frontal photopolymerization with optical attenuation and mass diffusion  Matthew G Hennessy, Alessandra Vitale, Omar K Matar, and João T Cabral  Physical Review E  2015\n\n\nInterfacial profile and propagation of frontal photopolymerization waves  Alessandra Vitale, Matthew G Hennessy, Omar K Matar, and João T Cabral  Macromolecules  2015\n\n\nControlled topological transitions in thin-film phase separation  Matthew G Hennessy, Victor M Burlakov, Alain Goriely, Barbara Wagner, and Andreas Münch  SIAM Journal on Applied Mathematics  2015\n\n\nDynamics of a slowly evaporating solvent–polymer mixture with a deformable upper surface  Matthew G Hennessy and Andreas Münch  The IMA Journal of Applied Mathematics  2014\n\n\nPropagating topological transformations in thin immiscible bilayer films  Mathew G Hennessy, Victor M Burlakov, Andreas Münch, Barbara Wagner, and Alain Goriely  Europhysics Letters  2014\n\n\nThe primary flow transition in a differentially heated rotating channel of fluid with O(2) symmetry  Matthew G Hennessy and Gregory M Lewis  Journal of Computational and Applied Mathematics  2013\n\n\nA multiple-scale analysis of evaporation induced Marangoni convection  Matthew G Hennessy and Andreas Münch  SIAM Journal on Applied Mathematics  2013\n\nNo matching items"
+    "text": "We combine mathematical modelling with experiments to learn about the behaviours of fluids and solids. A summary of our active research themes is below. Feel free to reach out if you would like to discuss collaboration opportunities."
   },
   {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join us",
-    "section": "",
-    "text": "There are several opportunities to join the CFM Lab. If any of the opportunities below are of interest to you, then please email Matt at matthew.hennessy@bristol.ac.uk to discuss further."
+    "objectID": "research.html#mechanics-of-hydrogels",
+    "href": "research.html#mechanics-of-hydrogels",
+    "title": "Research",
+    "section": "Mechanics of hydrogels",
+    "text": "Mechanics of hydrogels\n\n\n\n\n\nHydrogels are soft, porous solids that are extremely water absorbent. Some hydrogels are able to absorb more than 1000 times their dry mass of water! Moreover, many hydrogels are responsive to their environment. This means that stimuli such as temperature, electricity, and magnetism can be used to alter how much water they absorb and hence control their shape. The behaviour of hydrogels is governed by a delicate interplay of fluid and solid mechanics and thermodynamics, making them particularly interesting to study. Our research on hydrogels involves:\n\nMulti-scale and microstructural modelling of hydrogels\nModelling of thermo-, electro-, and magneto-responsive hydrogels\nPhase separation and phase transitions in hydrogels\nHow hydrogels interact with external fluids\nBiomedical applications of hydrogels (artificial cartilage, drug delivery)\n\n\n\n\nComplex fluids\n\n\n\n\n\nFluids that appear in industrial and biological contexts are usually not simple liquids. Instead, these fluids often have a liquid and solid component. The solid component could be grains in the case of coffee or cells in the case of blood. The physical properties of the fluid can be strongly impacted by the solid component, as anyone who has added cornstarch to water knows. Fluids with a solid component are usually called complex fluids, owning to their complex mechanical behaviours. Our research into complex fluids has focused on:\n\nFracture and delamination of evaporating colloidal suspensions\nGelation of complex fluids\nPhase separation in polymer solutions and biological fluids\nViscoelasticity and poroelasticity\nPattern formation in granular fluids\n\n\n\n\nLight-driven 3D printing\n\n\n\n\n\n3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:\n\nDeriving minimal models that capture mass transport, optical attenuation, and thermal effects\nUnderstanding the fluid and solid mechanics of 3D printing\nUsing machine learning to simulate and optimise 3D printing\nModelling dual- and multi-wavelength 3D printing\n\n\n\n\nLithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
   },
   {
-    "objectID": "join.html#phd-projects",
-    "href": "join.html#phd-projects",
-    "title": "Join us",
-    "section": "PhD projects",
-    "text": "PhD projects\nWe are looking for talented and enthusiastic students to work on PhD projects. Applicants should have a keen interest in fluid and solid mechanics, numerical simulations, and using mathematical techniques to solve real-world problems. There are opportunities to carry out experimental work as well.\nWe currently have PhD projects relating to:\n\nEvaporation of particle-laden fluids\nMulti-scale modelling of polymer gels using machine learning\nOptimisation of hydrogel-based drug delivery systems\nShrinkage and swelling during 3D printing\nElectro- and magneto-active hydrogels\n\nCompetitive funding is available for PhD projects. Details of PhD studentships are usually announced around December. Application deadlines are typically at the end of January. If you are interested in joining the group as a PhD student, you are strongly advised to get in touch in November or December.\nInformation about admission requirements for a PhD in Engineering Mathematics can be found here."
+    "objectID": "research.html#complex-fluids",
+    "href": "research.html#complex-fluids",
+    "title": "Research",
+    "section": "Complex fluids",
+    "text": "Complex fluids\n\n\n\n\n\nFluids that appear in industrial and biological contexts are usually not simple liquids. Instead, these fluids often have a liquid and solid component. The solid component could be grains in the case of coffee or cells in the case of blood. The physical properties of the fluid can be strongly impacted by the solid component, as anyone who has added cornstarch to water knows. Fluids with a solid component are usually called complex fluids, owning to their complex mechanical behaviours. Our research into complex fluids has focused on:\n\nFracture and delamination of evaporating colloidal suspensions\nGelation of complex fluids\nPhase separation in polymer solutions and biological fluids\nViscoelasticity and poroelasticity\nPattern formation in granular fluids\n\n\n\n\nLight-driven 3D printing\n\n\n\n\n\n3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:\n\nDeriving minimal models that capture mass transport, optical attenuation, and thermal effects\nUnderstanding the fluid and solid mechanics of 3D printing\nUsing machine learning to simulate and optimise 3D printing\nModelling dual- and multi-wavelength 3D printing\n\n\n\n\nLithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
   },
   {
-    "objectID": "join.html#post-doc-opportunties",
-    "href": "join.html#post-doc-opportunties",
-    "title": "Join us",
-    "section": "Post-doc opportunties",
-    "text": "Post-doc opportunties\n\nWe will soon be looking recruit a post-doctoral researcher to conduct experiments with electrically charged polymer gels (polyelectrolyte gels). The vacancy is likely to open in autumn 2025. Please check back here regularly.\nBelow are some links for external funding for post-doctoral researchers:\n\nMarie Skłodowska-Curie Individual Fellowships - for researchers currently based outside of the UK\nRoyal Commission 1851 Fellowships - for reseachers with less than 3 years of post-doc experience\nRoyal Society University Research Fellowships - for researchers based anywhere\nEPSRC fellowships - for researchers based anywhere"
+    "objectID": "research.html#light-driven-3d-printing",
+    "href": "research.html#light-driven-3d-printing",
+    "title": "Research",
+    "section": "Light-driven 3D printing",
+    "text": "Light-driven 3D printing\n\n\n\n\n\n3D printing has led to a manufacturing revolution by enabling complex objects to be rapidly and inexpensively produced. At the CFM lab, we develop models that can guide light-driven 3D printing. A main challenge is that the models must be simple enough to use in practice but still capture the key physics. Specific topics of interest are:\n\nDeriving minimal models that capture mass transport, optical attenuation, and thermal effects\nUnderstanding the fluid and solid mechanics of 3D printing\nUsing machine learning to simulate and optimise 3D printing\nModelling dual- and multi-wavelength 3D printing\n\n\n\n\nLithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
   },
   {
-    "objectID": "news/announcement_12.html",
-    "href": "news/announcement_12.html",
+    "objectID": "research.html#lithium-ion-batteries",
+    "href": "research.html#lithium-ion-batteries",
+    "title": "Research",
+    "section": "Lithium-ion batteries",
+    "text": "Lithium-ion batteries\n\n\n\n\n\nLithium-ion batteries power many devices such as mobile phones and laptops. Despite the advantages of lithium-ion batteries, they can overheat and degrade over time. At the CFM lab, our research on batteries focuses on:\n\nUsing asymptotic methods to derive simplified models of batteries\nDetection of internal short circuits using machine learning\nModelling nanowire-based electrodes"
+  },
+  {
+    "objectID": "news/announcement_02.html",
+    "href": "news/announcement_02.html",
     "title": "**CFM** Lab",
     "section": "",
-    "text": "We welcome Dominique Bell, Jacob Short, and Nicoletta Lambrou to the group!"
+    "text": "Matt Hennessy has been awarded the 7th APS Division of Polymer Physics and Institute of Physics Polymer Physics Group Exchange Lectureship. He will give an invited talk at the APS March meeting on his work."
+  },
+  {
+    "objectID": "news/announcement_19.html",
+    "href": "news/announcement_19.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We welome Jasper Knox and Asmaa Slim to the group! They are MSc students who will work on intracellular phase separation and shrinkage during 3D printing, respectively."
+  },
+  {
+    "objectID": "news/announcement_16.html",
+    "href": "news/announcement_16.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We have just published a paper in EJAM in which we show that polyelectrolyte gels can have electrically charged equilibrium states arising from phase separation."
+  },
+  {
+    "objectID": "news/announcement_05.html",
+    "href": "news/announcement_05.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "Oliver’s paper on fluid-fluid phase separation in soft granular materials has been accepted in JMPS. We derive a thermodynamically consistent model to capture the formation of cavities within the granular material when one fluid phase is strongly non-wetting."
+  },
+  {
+    "objectID": "news/announcement_18.html",
+    "href": "news/announcement_18.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We welome Amy Williams, Keatan Gill, and Jack Gurney to the group! They will work on various final-year projects for their MEng degrees; see the People page for more info!"
+  },
+  {
+    "objectID": "news/announcement_11.html",
+    "href": "news/announcement_11.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We welcome Will Simpkins to the group! Will’s PhD project will focus on modelling thin, morphing structures."
+  },
+  {
+    "objectID": "news/announcement_08.html",
+    "href": "news/announcement_08.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "Matt Penn’s paper on optimising drug release from hydrogels has been accepted for publication. In this paper, we explore how the initial drug concentration can be used to optimise the release of drugs."
+  },
+  {
+    "objectID": "news/announcement_20.html",
+    "href": "news/announcement_20.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "Our position paper on using mathematical modelling to aid liver cell therapies has been accepted in npj Regenerative Medicine"
+  },
+  {
+    "objectID": "news/announcement_04.html",
+    "href": "news/announcement_04.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "The CFM Lab welcomes Hriday Poduval to the group! Hriday will work on modelling drug-loaded hydrogels."
+  },
+  {
+    "objectID": "news/announcement_07.html",
+    "href": "news/announcement_07.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "The CFM Lab welcomes Matthew Ghosh to the group! Matthew will work on deriving a model for poroelastic shells."
   },
   {
     "objectID": "news/announcement_22.html",
@@ -259,25 +196,25 @@
     "text": "Our paper on modelling the drying of poroelastic drops has been accepted in PRE. Here, we propose that the alignment of desiccation fractures is controlled by the profile of the drop at the gel point."
   },
   {
-    "objectID": "news/announcement_07.html",
-    "href": "news/announcement_07.html",
+    "objectID": "news/announcement_14.html",
+    "href": "news/announcement_14.html",
     "title": "**CFM** Lab",
     "section": "",
-    "text": "The CFM Lab welcomes Matthew Ghosh to the group! Matthew will work on deriving a model for poroelastic shells."
+    "text": "Our paper on the drying of poroelastic films on cantilever beams has been accepted for publication in EJAM. We develop reduced-order models and validate them against finite element simulations."
   },
   {
-    "objectID": "news/announcement_22_1.html",
-    "href": "news/announcement_22_1.html",
+    "objectID": "news/announcement_12.html",
+    "href": "news/announcement_12.html",
     "title": "**CFM** Lab",
     "section": "",
-    "text": "We welcome Miles, Robbie, Ben, Zhida to the group! They will work on a variety of problems involving hydrogels, lithium-ion batteries, and magnets."
+    "text": "We welcome Dominique Bell, Jacob Short, and Nicoletta Lambrou to the group!"
   },
   {
-    "objectID": "news/announcement_19.html",
-    "href": "news/announcement_19.html",
+    "objectID": "news/announcement_10.html",
+    "href": "news/announcement_10.html",
     "title": "**CFM** Lab",
     "section": "",
-    "text": "We welome Jasper Knox and Asmaa Slim to the group! They are MSc students who will work on intracellular phase separation and shrinkage during 3D printing, respectively."
+    "text": "Our paper on the collapse of polyelectrolyte gels has been accepted in SIAP. In this paper, we study how polyelectrolyte gels deswell during the volume phase transition."
   },
   {
     "objectID": "news/announcement_03.html",
@@ -287,20 +224,6 @@
     "text": "Our paper on modelling polyelectrolyte gels that undergo phase separation has been accepted for publication in JMPS. We show that a novel mode of phase separation can lead to localised pattern formation and a breakdown of electroneutrality in the bulk of the gel."
   },
   {
-    "objectID": "news/announcement_02.html",
-    "href": "news/announcement_02.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "Matt Hennessy has been awarded the 7th APS Division of Polymer Physics and Institute of Physics Polymer Physics Group Exchange Lectureship. He will give an invited talk at the APS March meeting on his work."
-  },
-  {
-    "objectID": "news/announcement_16.html",
-    "href": "news/announcement_16.html",
-    "title": "**CFM** Lab",
-    "section": "",
-    "text": "We have just published a paper in EJAM in which we show that polyelectrolyte gels can have electrically charged equilibrium states arising from phase separation."
-  },
-  {
     "objectID": "news/announcement_15.html",
     "href": "news/announcement_15.html",
     "title": "**CFM** Lab",
@@ -308,11 +231,32 @@
     "text": "We have just published a paper in Acta Biomaterialia in which a fibre-reinforced hydrogel is designed to mimic the poroelastic response of cartilage."
   },
   {
-    "objectID": "news/announcement_20.html",
-    "href": "news/announcement_20.html",
+    "objectID": "news/announcement_21.html",
+    "href": "news/announcement_21.html",
     "title": "**CFM** Lab",
     "section": "",
-    "text": "Our position paper on using mathematical modelling to aid liver cell therapies has been accepted in npj Regenerative Medicine"
+    "text": "Our paper with Matteo Taffetani on modelling beading in soft elastic cylinders has been accepted in JMPS."
+  },
+  {
+    "objectID": "news/announcement_13.html",
+    "href": "news/announcement_13.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "Matt in collaboration with Sebastien Rochat has been awarded a pump-priming grant to study the volume phase transition in stimuli-responsive gels using experiments and modelling."
+  },
+  {
+    "objectID": "news/announcement_22_1.html",
+    "href": "news/announcement_22_1.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We welcome Miles, Robbie, Ben, Zhida to the group! They will work on a variety of problems involving hydrogels, lithium-ion batteries, and magnets."
+  },
+  {
+    "objectID": "news/announcement_09.html",
+    "href": "news/announcement_09.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We welcome James Webb to the group! James will investigate how the evaporation rate can be used create nanostructured polymeric materials for use in organic solar cells."
   },
   {
     "objectID": "news/announcement_23.html",
@@ -322,17 +266,73 @@
     "text": "Matt’s paper about boundary conditions for polyelectrolyte gels has been accepted for publication in the Proceedings of the Royal Society A."
   },
   {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Research videos",
+    "objectID": "news/announcement_24.html",
+    "href": "news/announcement_24.html",
+    "title": "**CFM** Lab",
     "section": "",
-    "text": "Videos of some of our research highlights"
+    "text": "Matt has received funding for an EPSRC New Investigator Award that will focus on modelling and experiments of polyelectrolyte gels. We will soon be recruiting two PDRAs to join the group."
   },
   {
-    "objectID": "videos.html#optimisation-of-drug-delivery-systems",
-    "href": "videos.html#optimisation-of-drug-delivery-systems",
-    "title": "Research videos",
-    "section": "Optimisation of drug-delivery systems",
-    "text": "Optimisation of drug-delivery systems"
+    "objectID": "news/announcement_17.html",
+    "href": "news/announcement_17.html",
+    "title": "**CFM** Lab",
+    "section": "",
+    "text": "We welcome Yaojue Xiong to the group! Yaojue will use modelling, simulation, and experiments to study fracture of drying drops."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Complex and Functional Materials Lab",
+    "section": "",
+    "text": "School of Engineering Mathematics and Technology, University of Bristol, United Kingdom\nWe use applied mathematics, experiments, and computational methods to describe the behaviours of fluids and solids. The aim of our research is to guide the development of new functional materials that can be used in modern applications."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Complex and Functional Materials Lab",
+    "section": "News",
+    "text": "News\n\nSep 8, 2025 Our paper on modelling fibre-reinforced hydrogels has been accepted for publication in JMPS. In this paper, we reveal the critical role that slack in the fibre network plays in controlling the response of these materials.\nAug 1, 2025 We welcome Peter Lewin-Jones to the group! Peter will work on multi-scale modelling of polyelectrolyte gels.\nJul 21, 2025 Simon’s paper on modelling the behaviour of a poroelastic particle in a Stokes flow has just been accepted in PRF!\nMay 18, 2025 We welcome Jake Bowhay to the group!\nApr 15, 2025 We are now recruiting a post-doc to work on modelling polyelectrolyte gels. Please see the join us page for details\nNo matching items"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Research software",
+    "section": "",
+    "text": "Links to open-source software produced by members of the CFM Lab can be found below."
+  },
+  {
+    "objectID": "code.html#ucompress.py",
+    "href": "code.html#ucompress.py",
+    "title": "Research software",
+    "section": "ucompress.py",
+    "text": "ucompress.py\nLightweight Python code for simulating the unconfined compression of nonlinear poroelastic materials, including fibre-reinforced hydrogels.\n\n     GitHub"
+  },
+  {
+    "objectID": "code.html#porodropbeam",
+    "href": "code.html#porodropbeam",
+    "title": "Research software",
+    "section": "PoroDropBeam",
+    "text": "PoroDropBeam\nFinite element code to simulate the drying of a poroelastic film that is bonded to the upper surface of a cantilever.\n\n     GitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Funded research projects",
+    "section": "",
+    "text": "The CFM Lab has received external funding for its major research projects. Find out more about these projects below."
+  },
+  {
+    "objectID": "projects.html#multi-scale-modelling-of-polyelectrolyte-gels",
+    "href": "projects.html#multi-scale-modelling-of-polyelectrolyte-gels",
+    "title": "Funded research projects",
+    "section": "Multi-scale modelling of polyelectrolyte gels",
+    "text": "Multi-scale modelling of polyelectrolyte gels\nEPSRC New Investigator Award, UKRI093, Jan 2025–Dec 2027\nPolyelectrolyte (PE) gels are soft, fluid-filled solids that can change their size and shape in response to their environment. The ability to control the response of a PE gel can lead to new technologies for artificial muscles, soft robotics, drug delivery, water purification, and energy storage. However, the physics that provide PE gels with their responsiveness take place across multiple length scales, ranging from nanometres to centimetres. Despite extensive modelling and experimental studies, it is still unclear how these physics manifest in the bulk response of the gel. As a result, it is very difficult to design a PE gel so that it undergoes the right response for a given application.\nThe aim of this research is to harness the power of multi-scale mathematical methods to derive a new model of a PE gel based on continuum mechanics. The model will explicitly capture the multiple length scales where the physics that underpin gel responsiveness take place. By seeking exact and numerical solutions to the model, key behaviours of PE gels will be predicted, such as their degree of swelling, when their volume phase transition occurs, and how much they bend when placed in an electric field. Experiments will be carried out to produce data for model validation and refinement. To help investigate and predict stimuli-driven bending of PE gels, asymptotic methods will be used to develop simplified mathematical models for gels with thin geometries (e.g. gel plates, beams, and sheets).\nThis project will unlock the technological potential of PE gels by revealing how their environmental response can be tuned through their underlying physics. In addition, the new, experimentally validated models can be used as tools to inform the design of PE gels and optimise their use in a wide range of transformative technologies. For example, tuning how PE gels deswell can improve their ability to function as intelligent drug-delivery vehicles that release the right amount of drugs at the right place in the body."
+  },
+  {
+    "objectID": "publications/papers.html",
+    "href": "publications/papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A microstructure-informed continuum model of transversely isotropic, fibre-reinforced hydrogels  Matthew G Hennessy, Tom Shearer, Axel C Moore  Journal of Mechanics and Physics of Solids  2025\n\n\nWeakly deformable poroelastic particle in an unbounded Stokes flow  Simon M Finney, Matthew G Hennessy, Andreas Münch, and Sarah L Waters  Physical Review Fluids  2025\n\n\nInterface conditions for a polyelectrolyte gel in a salt solution with a thin electrical double layer  Matthew G Hennessy  Proceedings of the Royal Society A  2025\n\n\nThe impact of confinement on the deformation of an elastic particle under axisymmetric tube flow  Simon M Finney, Matthew G Hennessy, Andreas Münch, and Sarah L Waters  IMA Journal of Applied Mathematics  2024\n\n\nExploiting in silico modelling to enhance translation of liver cell therapies from bench to bedside  Candice Ashmore-Harris, Evangelia, Antonopoulou, Simon M Finney, Melissa R Vieira, Matthew G Hennessy, Andreas Münch, Wei-Yu Lu, Victoria L Gadd, Alicia J El Haj, Stuart J Forbes, Sarah L Waters  npj Regenerative Medicine  2024\n\n\nCurvature controls beading in soft coated elastic cylinders: Finite wavemode instability and localized modulations  Matteo Taffetani and Matthew G Hennessy  Journal of the Mechanics and Physics of Solids  2024\n\n\nBreakdown of electroneutrality in polyelectrolyte gels  Matthew G Hennessy, Giulia L Celora, Andreas Münch, Barbara Wagner, and Sarah L Waters  European Journal of Applied Mathematics  2024\n\n\nFiber reinforced hydrated networks recapitulate the poroelastic mechanics of articular cartilage  Axel C Moore, Matthew G Hennessy, Liebert P Nogueira, Susan J Franks, Matteo Taffetani, Hyejeong Seong, Yoo K Kang, Wei S Tan, Gregor Miklosic, Raya E Laham, Kun Zhou, Lukeriya Zharova, John R King, Barbara Wagner, Havard J Haugen, Andreas Münch, and Molly M Stevens  Acta Biomaterialia  2023\n\n\nTime-dependent modelling of thin poroelastic films drying on deformable plates  Matthew G Hennessy, Richard V Craster, and Omar K Matar  European Journal of Applied Mathematics  2023\n\n\nThe dynamics of a collapsing polyelectrolyte gel  Giulia L Celora, Matthew G Hennessy, Andreas Münch, Barbara Wagner, and Sarah L Waters  SIAM Journal on Applied Mathematics  2023\n\n\nOptimal loading of hydrogel-based drug-delivery systems  Matthew J Penn and Matthew G Hennessy  Applied Mathematical Modelling  2022\n\n\nFluid-fluid phase separation in a soft porous medium  Oliver W Paulin, Liam C Morrow, Matthew G Hennessy, Christopher W MacMinn  Journal of Mechanics and Physics of Solids  2022\n\n\nDrying-induced stresses in poroelastic drops on rigid substrates  Matthew G Hennessy, Richard V Craster, Omar K Matar  Physical Review E  2022\n\n\nA kinetic model of a polyelectrolyte gel undergoing phase separation  Giulia L Celora, Matthew G Hennessy, Andreas Münch, Barbara Wagner, and Sarah L Waters  Journal of Mechanics and Physics of Solids  2022\n\n\nGuyer–Krumhansl Heat Conduction in Thermoreflectance Experiments  Matthew G Hennessy and Timothy G Myers,  Multidisciplinary Mathematical Modelling,  2021,\n\n\nA Mathematical Model of Carbon Capture by Adsorption  Francesc Font, Timothy G Myers, and Matthew G Hennessy  Multidisciplinary Mathematical Modelling  2021\n\n\nMathematical modelling of carbon capture in a packed column by adsorption  Timothy G Myers, Francesc Font, and Matthew G Hennessy  Applied Energy  2020\n\n\nAsymptotic reduction and homogenization of a thermo-electrochemical model for a lithium-ion battery  Matthew G Hennessy and Iain R Moyles  Applied Mathematical Modelling  2020\n\n\nThe one-dimensional Stefan problem with non-Fourier heat conduction  Marc Calvo-Schwarzwälder, Timothy G Myers, and Matthew G Hennessy  International Journal of Thermal Sciences  2020\n\n\nPhase separation in swelling and deswelling hydrogels with a free boundary  Matthew G Hennessy, Andreas Münch, and Barbara Wagner  Physical Review E  2020\n\n\nPhonon hydrodynamics in frequency-domain thermoreflectance experiments  A Beardo, MG Hennessy, L Sendra, J Camacho, TG Myers, J Bafaluy, and FX Alvarez  Physical Review B  2020\n\n\nModelling ultra-fast nanoparticle melting with the Maxwell–Cattaneo equation  Matthew G Hennessy, Marc Calvo-Schwarzwälder, and Timothy G Myers  Applied Mathematical Modelling  2019\n\n\nElastic suppression of boiling in network fluids: A mechanism for hard-to-boil massecuite  Matthew G Hennessy, Iain R Moyles, and Stuart J Thomson  International Journal of Thermal Sciences  2019\n\n\nAsymptotic reduction of a porous electrode model for lithium-ion batteries  Iain R Moyles, Matthew G Hennessy, Timothy G Myers, and Brian R Wetton  SIAM Journal on Applied Mathematics  2019\n\n\nEffective thermal conductivity of rectangular nanowires based on phonon hydrodynamics  Marc Calvo-Schwarzwälder, Matthew G Hennessy, Pol Torres, Timothy G Myers, and F Xaview Alvarez  International Journal of Heat and Mass Transfer  2018\n\n\nAsymptotic analysis of the Guyer–Krumhansl–Stefan model for nanoscale solidification  Matthew G Hennessy, Marc Calvo-Schwarzwälder, and Timothy G Myers  Applied Mathematical Modelling  2018\n\n\nA slip-based model for the size-dependent effective thermal conductivity of nanowires  M Calvo-Schwarzwälder, MG Hennessy, P Torres, TG Myers, and FX Alvarez  International Communications in Heat and Mass Transfer  2018\n\n\nCoarse-grained models for frontal photopolymerization with evolving conversion profile  Aloisius R Purnama, Matthew G Hennessy, Alessandra Vitale, and João T Cabral  Polymer International  2017\n\n\nA minimal model for solvent evaporation and absorption in thin films  Matthew G Hennessy, Giulia L Ferretti, João T Cabral, Omar K Matar  Journal of Colloid and Interface Science  2017\n\n\nMonomer diffusion into static and evolving polymer networks during frontal photopolymerisation  Matthew G Hennessy, Alessandra Vitale, Omar K Matar, and João T Cabral  Soft Matter  2017\n\n\nA two-phase model for evaporating solvent-polymer mixtures  Matthew G Hennessy, Christopher JW Breward, and Colin P Please  SIAM Journal on Applied Mathematics  2016\n\n\nSurface waves on a soft viscoelastic layer produced by an oscillating microbubble  Marc Tinguely, Matthew G Hennessy, Angelo Pommella, Omar K Matar, Valeria Garbin  Soft Matter  2016\n\n\nA unified approach for patterning via frontal photopolymerization  Alessandra Vitale, Matthew G Hennessy, Omar K Matar, and João T Cabral  Advanced Materials  2015\n\n\nMathematical modelling of Tyndall star initiation  Andrew A Lacey, Matthew G Hennessy, Pater Harvey, and Richard F Katz  European Journal of Applied Mathematics  2015\n\n\nRole of heat generation and thermal diffusion during frontal photopolymerization  Matthew G Hennessy, Alessandra Vitale, João T Cabral, and Omar K Matar  Physical Review E  2015\n\n\nControlling frontal photopolymerization with optical attenuation and mass diffusion  Matthew G Hennessy, Alessandra Vitale, Omar K Matar, and João T Cabral  Physical Review E  2015\n\n\nInterfacial profile and propagation of frontal photopolymerization waves  Alessandra Vitale, Matthew G Hennessy, Omar K Matar, and João T Cabral  Macromolecules  2015\n\n\nControlled topological transitions in thin-film phase separation  Matthew G Hennessy, Victor M Burlakov, Alain Goriely, Barbara Wagner, and Andreas Münch  SIAM Journal on Applied Mathematics  2015\n\n\nDynamics of a slowly evaporating solvent–polymer mixture with a deformable upper surface  Matthew G Hennessy and Andreas Münch  The IMA Journal of Applied Mathematics  2014\n\n\nPropagating topological transformations in thin immiscible bilayer films  Mathew G Hennessy, Victor M Burlakov, Andreas Münch, Barbara Wagner, and Alain Goriely  Europhysics Letters  2014\n\n\nThe primary flow transition in a differentially heated rotating channel of fluid with O(2) symmetry  Matthew G Hennessy and Gregory M Lewis  Journal of Computational and Applied Mathematics  2013\n\n\nA multiple-scale analysis of evaporation induced Marangoni convection  Matthew G Hennessy and Andreas Münch  SIAM Journal on Applied Mathematics  2013\n\nNo matching items"
   }
 ]
