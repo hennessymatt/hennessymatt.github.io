@@ -1,3 +1,7 @@
+- name: Gunay Hummatova
+  description: Phase separation of evaporating polymer solutions (MSc project)
+  date: 2025-09-01
+
 - name: Ben Hallett
   description: "Optimisation of hydrogel-based drug-delivery systems (MEng project)"
   date: 2025-04-09
@@ -5,7 +9,6 @@
 - name: Miles Weedon
   description: "Using machine-learning surrogate models to calculate magnetic shape factors (MEng project)"
   date: 2025-04-09
-
 
 - name: Amy Williams
   description:  Optimisation of drug-delivery systems using physics-informed neural networks (MEng project)
