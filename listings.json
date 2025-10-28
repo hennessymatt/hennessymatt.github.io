@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/announcement_33.html",
       "/news/announcement_32.html",
       "/news/announcement_30.html",
       "/news/announcement_31.html",
@@ -44,6 +45,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/news/announcement_33.html",
       "/news/announcement_32.html",
       "/news/announcement_30.html",
       "/news/announcement_31.html",
