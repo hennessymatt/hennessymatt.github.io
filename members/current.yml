@@ -1,3 +1,8 @@
+- name: "Beth Stokes"
+  description: "**Beth Stokes** is an innovation research associate that is working on modelling formulated products
+  as part of the [SUM4Products network](https://sum4products.co.uk)."
+  image: /assets/img/group/beth.jpeg
+
 - name: "Peter Lewin-Jones"
   description: "**Peter Lewin-Jones** is a post-doc working on multi-scale modelling of polyelecrolyte gels"
   image: /assets/img/group/peter_lewin-jones.jpg
@@ -11,15 +16,13 @@
 - name: "Yaojue Xiong"
   description: "**Yaojue Xiong** is a PhD student who is studying evaporation-driven fracture of
 colloidal fluids.  Yaojue is co-supervised by 
-[Stuart Thomson](https://www.bristol.ac.uk/people/person/Stuart-Thomson-7dc4f745
--cd23-497e-9d81-a1ea7ec1f9ab/)."
+[Stuart Thomson](https://sites.google.com/view/sjthomson)."
   image: /assets/img/group/yaojue.jpeg
 
 - name: "Will Simpkins"
   description: "**Will Simpkins** is a PhD student who is modelling the 
 snapping of thin, morphable structures. Will is co-supervised by 
-[Matteo Taffetani](https://www.bristol.ac.uk/people/person/Matteo-Taffetani-f4f2
-f034-617f-4815-9ed8-07f34226d208/)."
+[Matteo Taffetani](https://mtaffetani.github.io/)."
   image: /assets/img/group/will.jpg
 
 - name: "Jasper Knox"
