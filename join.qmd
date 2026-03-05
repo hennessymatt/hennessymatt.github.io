@@ -34,13 +34,11 @@ Application deadlines are typically at the end of January.  If you are intereste
 
 <!-- The CFM Lab does not currently have funding for post-doctoral researchers.  Please check again as vacancies will be posted here. -->
 
-We are looking to recruit an innovation research associate to work on mathematical modelling of formulated products.  This post is ideal for a researcher that is keen to work on applied problems in fluid and solid mechanics, and heat and mass transfer, with academic and industry partners.  For more info, see the advert below:
+We are looking recruit a post-doctoral researcher to conduct experiments with electrically charged polymer gels (polyelectrolyte gels).  Details can be found [here](https://www.bristol.ac.uk/jobs/find/details/?jobId=386777&jobTitle=Research%20Associate%2FSenior%20Research%20Associate%20in%20Experimental%20Hydrogel%20Mechanics).  The deadline to apply is 19 March.
 
-* [Senior innovation research associate advert and link to apply](https://www.bristol.ac.uk/jobs/find/details/?jobId=382395&jobTitle=Senior%20Innovation%20Research%20Associate%20in%20Modelling%20Formulated%20Products)
 
-We will soon be looking recruit a post-doctoral researcher to conduct experiments with electrically charged polymer gels (polyelectrolyte gels).  The vacancy is likely to open in winter 2026.  Please check back here regularly.
-
-Below are some links for external funding for post-doctoral researchers:
+We are happy to support prospective post-doc researchers who are interested in applying for external funding.  Some links to external
+funding opportunity are below:
 
 * [Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships) - for researchers currently based outside of the UK
 * [Royal Commission 1851 Fellowships](https://royalcommission1851.org/fellowships/research-fellowships) - for reseachers with less than 3 years of post-doc experience
