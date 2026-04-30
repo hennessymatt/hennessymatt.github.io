@@ -4,12 +4,10 @@
     "items": []
   },
   {
-    "listing": "/members/members.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/news.html",
     "items": [
+      "/news/announcement_38.html",
+      "/news/announcement_37.html",
       "/news/announcement_36.html",
       "/news/announcement_35.html",
       "/news/announcement_34.html",
@@ -50,8 +48,14 @@
     ]
   },
   {
-    "listing": "/news.html",
+    "listing": "/members/members.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
     "items": [
+      "/news/announcement_38.html",
+      "/news/announcement_37.html",
       "/news/announcement_36.html",
       "/news/announcement_35.html",
       "/news/announcement_34.html",
