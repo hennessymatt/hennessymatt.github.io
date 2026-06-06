@@ -1,3 +1,8 @@
+- name: "Stella Wang"
+  description: "**Stella Wang** is a post-doc working on experimental hydrogel mechanics.  Stella is co-supervised by [Sebastien Rochat](https://www.bristol.ac.uk/people/person/Sebastien-Rochat-0baa85c7-718c-4a4c-9bfa-646bb119f146/)."
+  image: /assets/img/group/stella.png
+
+
 - name: "Beth Stokes"
   description: "**Beth Stokes** is an innovation research associate that is working on modelling formulated products
   as part of the [SUM4Products network](https://sum4products.co.uk)."
@@ -34,7 +39,3 @@ snapping of thin, morphable structures. Will is co-supervised by
   description: "**Jake Bowhay** is a PhD student working on surface instabilities in polyelectrolyte gels.  He
   is co-supervised by [Alan Champneys](https://www.bristol.ac.uk/people/person/Alan-Champneys-f32873f8-bbfb-4aa8-8fa9-6a95214b2822/)."
   image: /assets/img/group/jake.jpeg
-
-- name: "Yansheng Deng"
-  description: "**Yansheng Deng** is an MEng student using numerical simulations to study the conformation of polyelectrolytes in salt solution."
-  image: /assets/img/group/yd.jpeg
