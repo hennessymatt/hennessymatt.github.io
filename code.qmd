@@ -2,7 +2,7 @@
 title: Research software
 ---
 
-Links to open-source software produced by members of the CFM Lab can be found below.
+Links to open-source software produced by group members can be found below.
 
 ## `ucompress.py`
 Lightweight Python code for simulating the unconfined compression of

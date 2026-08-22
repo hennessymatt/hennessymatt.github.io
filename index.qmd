@@ -1,5 +1,5 @@
 ---
-title: "Complex and Functional Materials Lab"
+title: "Complex and Functional Materials Group"
 
 listing:     
     - id: news

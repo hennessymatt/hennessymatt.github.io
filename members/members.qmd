@@ -15,14 +15,14 @@ listing:
       sort: "date desc"
 
 ---
-Meet the members of the CFM Lab
+Meet the members of the CFM Group
 
-## Principal investigator
+## Group leader
 <!-- :::{layout="[1, 3]"} -->
 
 <img src="/assets/img/group/matt2.jpg" style="float: left; width:30%; padding: 0px 5% 0px 0px">
 
-**Matt Hennessy** leads the CFM Lab. His research interests lie at the interface
+**Matt Hennessy** leads the CFM Group. His research interests lie at the interface
 of applied maths, materials science and engineering, and soft matter. He is a Senior Lecturer in Engineering Mathematics at the [University of Bristol](https://www.bristol.ac.uk/).  Matt is a co-lead of the [SUM4Products network](https://sum4products.co.uk) and the [UK Hydrogels Network](https://sites.google.com/view/ukhydrogels/home).
 Matt is passionate about using maths to solve real-world problems arising in industry, and he is 
 a Knowledge Exchange Champion for the [UK Knowledge Exchange Hub for Mathematical Sciences](https://www.kehubmaths.co.uk/).

@@ -2,7 +2,7 @@
 title: Join us
 ---
 
-There are several opportunities to join the CFM Lab.  If any of the
+There are several opportunities to join the group.  If any of the
 opportunities below are of interest to you, then please email Matt at
  [matthew.hennessy@bristol.ac.uk](mailto:matthew.hennessy@bristol.ac.uk)
  to discuss further.
@@ -32,7 +32,7 @@ Application deadlines are typically at the end of January.  If you are intereste
 
 ## Post-doc opportunties
 
-The CFM Lab does not currently have openings for post-doctoral researchers.  Please check again as vacancies will be posted here.
+The CFM Group does not currently have openings for post-doctoral researchers.  Please check again as vacancies will be posted here.
 
 We are happy to support prospective post-doc researchers who are interested in applying for external funding.  Some links to external
 funding opportunity are below:

@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "**CFM** Lab"
+  title: "**CFM** Group"
   navbar:
     pinned: True
     left:
